@@ -1,0 +1,25 @@
+{
+  "timestamp": "2024-08-24T11:25:41.119547",
+  "question": "what is the address",
+  "answer": "{\n  \"highlight\": [],\n  \"filename\": \"report1.pdf\",\n  \"page_number\": [1],\n  \"ans\": \"The address is not explicitly mentioned in the provided report.\"\n}",
+  "context_metadata": [
+    {
+      "pdf_name": "report1.pdf",
+      "chunk_index": 0,
+      "page_number": 1,
+      "patient_name": "John Doe  \nDOB",
+      "hierarchical_level": 1,
+      "cluster_id": 1,
+      "summary_text": "The Clinical Negligence Report details the medical care of John Doe, who experienced alleged clinical negligence at St. Mary's Hospital between February and May 2023. Authored by Dr. Sarah Thompson, the report evaluates the standard of care he received and its contribution to his injuries.\n\nThe timeline of events begins with John Doe's initial consultation on February 5, 2023, where he was diagnosed with suspected gastritis without further testing. His persistent symptoms led to a delayed ultrasound appointment, which was rescheduled after he inquired about it. The ultrasound on April 5 revealed a large abdominal mass, but a referral to a gastroenterologist was delayed due to communication errors until April 25. Surgery on May 2 was performed to remove the"
+    },
+    {
+      "pdf_name": "report1.pdf",
+      "chunk_index": 0,
+      "page_number": 1,
+      "patient_name": "John Doe  \nDOB",
+      "hierarchical_level": 1,
+      "cluster_id": 0,
+      "summary_text": "The patient underwent surgery on May 2, 2023, to remove a mass, but mishandling of sterile equipment during the procedure led to a post-operative infection, delaying recovery and worsening the patient's health. On May 15, 2023, the patient developed sepsis and was admitted to the ICU, requiring IV antibiotics for stabilization. Several breaches of duty were identified, including failure to conduct necessary diagnostic tests, delays in imaging, inadequate post-surgical care, and communication failures, all of which contributed to the patient's deteriorating condition. The report concludes that early detection and proper surgical procedures could have minimized harm, and it recommends a review of hospital protocols to prevent similar issues in the future. The report was prepared by Dr. Sarah Thompson"
+    }
+  ]
+}

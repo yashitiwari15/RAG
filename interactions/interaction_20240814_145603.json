@@ -1,0 +1,87 @@
+{
+  "timestamp": "2024-08-14T14:56:03.470808",
+  "question": "provide a detailed physciatric history for mr.smith assuming mr.smith and carl is the same person",
+  "answer": "```json\n{\n  \"highlight\": \"Ms. Carter was diagnosed with polysubstance dependence and bipolar disorder NOS by Dr. Greg Henry, according to the Central Park Psychiatric Department notes from January 30, 2004.\",\n  \"filename\": \"msr2.pdf\",\n  \"page_number\": 5,\n  \"ans\": \"Ms. Carter has a psychiatric history that includes diagnoses of polysubstance dependence and bipolar disorder NOS. She has experienced severe mental illness that affects her ability to understand and apply treatment protocols. Additionally, she reported having suicidal thoughts when depressed and has a history of major depression alongside substance dependence.\"\n}\n```",
+  "context_metadata": [
+    {
+      "pdf_name": "msr2.pdf",
+      "chunk": "She \nlived with a girlfriend for five years while her son was young. She smiled when she talked about \nthis time and recounted it as one of the best times in her life. She then sighed and explained that \nshe messed it up and left to try out a heterosexual relationship, to build some stability for her son . When she was 22 years old, she married John  Carter. Mr. Carter was an alcoholic and very",
+      "page_number": 1,
+      "patient_name": null,
+      "chunk_index": 5,
+      "hierarchical_level": 1
+    },
+    {
+      "pdf_name": "msr2.pdf",
+      "chunk": "Ms. Carter wants to comply with treatment protocol, but due to the \nseverity of her mental illness is unable to understand, remember or apply information. Ms. Carter\u2019s thoughts are sometimes scattered because she often does not understand how to follow simple and routine instructions . She often repeats questions that she has just asked . She \nloses focus and does not seem to accept or remember answers to quest ions. When she was \nmaking notes of her treatment history, she wrote all over the sheet of paper in no particular order or spatial reasoning.",
+      "page_number": 7,
+      "patient_name": null,
+      "chunk_index": 43,
+      "hierarchical_level": 1
+    },
+    {
+      "pdf_name": "msr2.pdf",
+      "chunk": "Ms. Carter was diagnosed with polysubstance dependence and bipolar disorder  NOS by Dr. Greg \nHenry , according to the C entral Park Psychiatric Department notes from January 30, 2004.",
+      "page_number": 5,
+      "patient_name": null,
+      "chunk_index": 34,
+      "hierarchical_level": 1
+    },
+    {
+      "pdf_name": "msr2.pdf",
+      "chunk": "She was \nafraid for her son\u2019s safety and so she placed him in the foster care system and was never able to recover her custody. Mr. John Carter died 12 years after they married . The couple had never officially divorced. About 5 years ago, Ms. Carter  had one other serious relationship with a woman for \napproximately one year. On the ending of that relations hip, she said, \u201cI messed it up.\u201d   \n Ms. Carter first experienced homelessness while she was living in New Jersey .",
+      "page_number": 2,
+      "patient_name": null,
+      "chunk_index": 7,
+      "hierarchical_level": 1
+    },
+    {
+      "pdf_name": "msr2.pdf",
+      "chunk": "She complained of the awful \nsmell of urine and the fact that a \u201c drug addict \u201d had stolen her psychiatric medications the night \nbefore . She wanted to come in off the street. Ms. Carter  was very depressed and did not ha ve the \nenergy to change her clothes or go through her normal grooming routine . Personal History  \n \nMs. Carter was born and raised in Buffalo, NY . Her mother and stepfather raised her until they \ndivorced when she was 11 or 12 years old.",
+      "page_number": 1,
+      "patient_name": null,
+      "chunk_index": 1,
+      "hierarchical_level": 1
+    },
+    {
+      "pdf_name": "msr2.pdf",
+      "chunk": "2 abusive and so after 5 months, she moved out of the house into an apartment with her son. It was \nin that apartment that Ms. Carter  was brutally raped . A man came into her apartment where she \nwas sitting with her son and he ld a butcher knife to her neck as he raped her in front of her son. The experience was very traumatic to Ms. Carter  and was a turning point in her life .",
+      "page_number": 2,
+      "patient_name": null,
+      "chunk_index": 6,
+      "hierarchical_level": 1
+    },
+    {
+      "pdf_name": "msr2.pdf",
+      "chunk": "Ms. Carter is the oldest of two half- sisters each 5 -\nyears apart . Ms. Carter has had a very tenuous relationship with her mom since she was very \nyoung. Her mother was physically and emotionally abusive . Ms. Carter referred to scars on her \narms as she recounted a part icular episode of abuse from when she was 5 years old . She \nexplained that her mother would take her anger out on her because she looked like her biological \nfather, whom her mother harbored much contempt for .",
+      "page_number": 1,
+      "patient_name": null,
+      "chunk_index": 2,
+      "hierarchical_level": 1
+    },
+    {
+      "pdf_name": "msr2.pdf",
+      "chunk": "Ms. Carter was hit by a \ncar when she was 5 years old and again when she was 10 years old . She remembers that her \npelvis was broken  and that they performed CAT scans on her head . She does not remember \nmuch else about the accidents or treatment . Ms. Carter has been experiencing problems with her left knee ever since it was injured in June 2001. S he received treatment from the Honest  Hospital Emergency Room and Community \nHealth and Behavioral Services in Newark, NJ. She was diagnosed with Osgood- Schlatter \nDisease on July 10, 2001.",
+      "page_number": 3,
+      "patient_name": null,
+      "chunk_index": 14,
+      "hierarchical_level": 1
+    },
+    {
+      "pdf_name": "msr2.pdf",
+      "chunk": "Ms. Carter  returned for the final time in August of 2004 and \nher case note explains \u201cClient has moderate deficits in all core areas\u2026client is in need of higher level of care such as an inpatient program followed by congregate level II facility in conjunction with intensive outpat ient and mental health counseling.\u201d   \n On January 29, 2004, Ms. Carter  participated in a treatment program at C entral Park. The \nClinical Discharge Summary taken by Ben Barry , a registered physician\u2019s assistant, stated that \nMs. Carter \u201creported having suicidal thoughts when depressed and thinks she wishes she was dead.",
+      "page_number": 5,
+      "patient_name": null,
+      "chunk_index": 32,
+      "hierarchical_level": 1
+    },
+    {
+      "pdf_name": "msr2.pdf",
+      "chunk": "Asked if she was taking her \npsychotropic meds for her depression and bipolar disorder symptoms, she stated, \u2018Oh I don\u2019t know, sometimes\u2019.\u201d  \n Ms. Carter was receiving treatment at the Center for Recovery in New Jersey  from September \n2002 to August 2004. On September 3, 2002, she was diagnosed with bipolar disorder, major depression in addition to cocaine, cannabis, and alcohol dependence .",
+      "page_number": 5,
+      "patient_name": null,
+      "chunk_index": 30,
+      "hierarchical_level": 1
+    }
+  ]
+}

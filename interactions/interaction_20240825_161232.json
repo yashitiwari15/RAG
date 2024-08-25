@@ -1,0 +1,57 @@
+{
+  "timestamp": "2024-08-25T16:12:32.824661",
+  "question": "CLIMB PERFORMANCE - CRUISE CLIMB",
+  "answer": "{\n  \"highlight\": [\n    {\n      \"text\": \"CLIMB PERFORMANCE - CRUISE CLIMBConditions: -  Throttle.................. M A X  P W R-  RPM lever . . . . . . . . . . . . . . . .2400 RPM-  Flaps . . . . . . . . . . . . . . . . . . . . UP-  Airspeed. . . . . . . . . . . . . . . . . 76 KIAS (1200 kg, 2646 lb)%73 KIAS (1150 kg, 2535 lb)68 KIAS (1000 kg, 2205 lb)60 KIAS (850 kg, 1874 lb)\",\n      \"page_number\": 185,\n      \"filename\": \"manual2a.pdf\"\n    },\n    {\n      \"text\": \"Airspeed for cruise climb(Flaps UP)60 KIAS 68 KIAS 73 KIAS 76 KIAS%\",\n      \"page_number\": 118,\n      \"filename\": \"manual2a.pdf\"\n    }\n  ],\n  \"ans\": \"The cruise climb performance for the DA 40 indicates that with the throttle at maximum power, the RPM lever at 2400 RPM, and flaps up, the airspeeds for cruise climb vary depending on the mass of the aircraft: 76 KIAS for 1200 kg, 73 KIAS for 1150 kg, 68 KIAS for 1000 kg, and 60 KIAS for 850 kg.\"\n}",
+  "context_metadata": [
+    {
+      "pdf_name": "manual2a.pdf",
+      "chunk_index": 281,
+      "page_number": 194,
+      "patient_name": null,
+      "hierarchical_level": 0,
+      "cluster_id": null,
+      "summary_text": null,
+      "original_text": "Performance DA 40 AFM\nPage 5 - 24 Rev. 8 01-Dec-2010 Doc. # 6.01.01-E5.3.12  GRADIENT OF CLIMB ON GO-AROUNDThe DA 40 reaches a constant gradient of climb of 7.0 % in the following condition:- Mass . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . max. flight mass (1150 kg,2535 lb)- Power setting . . . . . . . . . . . . . . . . . . . . . . . . Take-off-F l a p s. . . . . . . . . . . . . . . . . . . . . . . . . . . . . .L D G-A i r s p e e d............................ 7 0  K I A S-I S A ,  M S LIf M\u00c4M 40-227 is carried out:%The DA 40 reaches a constant gradient of climb of 7.0 % in the following condition:%- Mass . . . . . . . . . . . . . . . . . . . . . . . . . . ."
+    },
+    {
+      "pdf_name": "manual2a.pdf",
+      "chunk_index": 268,
+      "page_number": 185,
+      "patient_name": null,
+      "hierarchical_level": 0,
+      "cluster_id": null,
+      "summary_text": null,
+      "original_text": "DA 40 AFM Performance\nDoc. # 6.01.01-E Rev. 8 01-Dec-2010 Page 5 - 155.3.8  CLIMB PERFORMANCE - CRUISE CLIMBConditions: -  Throttle.................. M A X  P W R-  RPM lever . . . . . . . . . . . . . . . .2400 RPM-  Flaps . . . . . . . . . . . . . . . . . . . . UP-  Airspeed. . . . . . . . . . . . . . . . . 76 KIAS (1200 kg, 2646 lb)%73 KIAS (1150 kg, 2535 lb)68 KIAS (1000 kg, 2205 lb)60 KIAS (850 kg, 1874 lb)"
+    },
+    {
+      "pdf_name": "manual2a.pdf",
+      "chunk_index": 266,
+      "page_number": 183,
+      "patient_name": null,
+      "hierarchical_level": 0,
+      "cluster_id": null,
+      "summary_text": null,
+      "original_text": "DA 40 AFM Performance\nDoc. # 6.01.01-E Rev. 8 01-Dec-2010 Page 5 - 135.3.7  CLIMB PERFORMANCE - TAKE-OFF CLIMBConditions: -  Throttle.................. M A X  P W R-  RPM lever . . . . . . . . . . . . . . . .2400 RPM-  Flaps . . . . . . . . . . . . . . . . . . . . T/O-  Airspeed. . . . . . . . . . . . . . . . . 67 KIAS (1200 kg, 2646 lb)%66 KIAS (1150 kg, 2535 lb)60 KIAS (1000 kg, 2205 lb)54 KIAS (850 kg, 1874 lb)"
+    },
+    {
+      "pdf_name": "manual2a.pdf",
+      "chunk_index": 155,
+      "page_number": 118,
+      "patient_name": null,
+      "hierarchical_level": 0,
+      "cluster_id": null,
+      "summary_text": null,
+      "original_text": "Normal OperatingProceduresDA 40 AFM\nPage 4A - 2 Rev. 8 01-Dec-2010 Doc. # 6.01.01-E4A.1 INTRODUCTIONChapter 4A contains checklists and describes extended procedures for the normaloperation of the airplane.4A.2 AIRSPEEDS FOR NORMAL OPERATING PROCEDURESFlight MassEvent850 kg1874 lb1000 kg2205 lb1150 kg2535 lb1200 kg%2646 lb%Airspeed for take-off climb(best rate-of-climb speed vY)(Flaps T/O)54 KIAS 60 KIAS 66 KIAS 67 KIAS%Airspeed for cruise climb(Flaps UP)60 KIAS 68 KIAS 73 KIAS 76 KIAS%Approach speed for normal landing(Flaps LDG)58 KIAS 63 KIAS 71 KIAS 73 KIAS%Minimum speed during touch & go(Flaps T/O)54 KIAS 60 KIAS 66 KIAS 67 KIAS%"
+    },
+    {
+      "pdf_name": "manual2a.pdf",
+      "chunk_index": 261,
+      "page_number": 180,
+      "patient_name": null,
+      "hierarchical_level": 0,
+      "cluster_id": null,
+      "summary_text": null,
+      "original_text": "Performance DA 40 AFM\nPage 5 - 10 Rev. 8 01-Dec-2010 Doc. # 6.01.01-E5.3.6  TAKE-OFF DISTANCEConditions: -  Throttle.................. M A X  P W R-  RPM lever . . . . . . . . . . . . . . . .2700 RPM-  Flaps . . . . . . . . . . . . . . . . . . . . T/O-  Lift-off speed..............approx. 59 KIAS-  Climb-out speed............ 6 7  K I A S  (1200 kg, 2646 lb)%66 KIAS (1150 kg, 2535 lb)60 KIAS (below 1000 kg,2205 lb)-  Runway . . . . . . . . . . . . . . . . . . level, asphalt surfaceWARNINGPoor maintenance condition of the airplane, deviation fromthe given procedures as well as unfavorable external factors(high temperature, rain, unfavorable wind conditions, includingcross-wind) will increase the take-off distance.CAUTIONFor a safe take-off the take-off run available (TORA) shouldbe at least equal to the take-off distance over a 50 ft (15 m)obstacle."
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "timestamp": "2024-08-24T10:44:01.942414",
+  "question": "give the summary of document",
+  "answer": "{\n  \"highlight\": [\n    \"The Clinical Negligence Report for patient John Doe, prepared by Dr. Sarah Thompson, outlines incidents of alleged medical negligence during his care at St. Mary's Hospital from February to May 2023.\",\n    \"The report details a timeline of events beginning with an initial consultation on February 5, 2023, where Dr. Emily Harper diagnosed him with gastritis without further investigation.\",\n    \"Subsequent visits revealed persistent symptoms, leading to a delayed ultrasound on March 15, which was postponed due to scheduling issues.\",\n    \"The ultrasound, conducted on April 5, identified a large abdominal mass, but a referral to gastroenterology was not made until April 25 due to communication errors.\",\n    \"Surgery was performed on May 2, but the patient suffered a post-surgical infection, delaying recovery and worsening the patient's health.\",\n    \"Key breaches of duty included failure to conduct necessary diagnostic tests, delays in scheduling imaging, inadequate post-surgical care, and communication failures between departments.\"\n  ],\n  \"filename\": [\n    \"report1.pdf\",\n    \"testingdata2.pdf\"\n  ],\n  \"page_number\": [\n    1,\n    1,\n    2\n  ],\n  \"ans\": \"The documents summarize incidents of alleged medical negligence involving patient John Doe at St. Mary's Hospital from February to May 2023, detailing a timeline of misdiagnosis, delayed imaging, and subsequent surgical complications that led to a post-operative infection. Additionally, it includes a medical history report for patient Jane Smith, who has persistent abdominal pain related to her diagnosed Irritable Bowel Syndrome, along with her social history and physical examination findings.\"\n}",
+  "context_metadata": [
+    {
+      "pdf_name": "report1.pdf",
+      "chunk_index": 0,
+      "page_number": 1,
+      "patient_name": "John Doe  \nDOB",
+      "hierarchical_level": 1,
+      "cluster_id": 0,
+      "summary_text": "The Clinical Negligence Report for patient John Doe, prepared by Dr. Sarah Thompson, outlines incidents of alleged medical negligence during his care at St. Mary's Hospital from February to May 2023. The report details a timeline of events beginning with an initial consultation on February 5, 2023, where Dr. Emily Harper diagnosed him with gastritis without further investigation. Subsequent visits revealed persistent symptoms, leading to a delayed ultrasound on March 15, which was postponed due to scheduling issues. The ultrasound, conducted on April 5, identified a large abdominal mass, but a referral to gastroenterology was not made until April 25 due to communication errors. Surgery was performed on May 2, but the patient suffered a post-surgical"
+    },
+    {
+      "pdf_name": "report1.pdf",
+      "chunk_index": 0,
+      "page_number": 1,
+      "patient_name": "John Doe  \nDOB",
+      "hierarchical_level": 1,
+      "cluster_id": 1,
+      "summary_text": "The patient underwent surgery on May 2, 2023, to remove a mass, but mishandling of sterile equipment led to a post-operative infection, delaying recovery and worsening the patient's health. On May 15, the patient developed sepsis and required ICU admission due to the systemic response from the infection. Treatment with IV antibiotics stabilized the patient, but delays in diagnosis and treatment had significant negative effects on their health and quality of life. Key breaches of duty included failure to conduct necessary diagnostic tests, delays in scheduling imaging, inadequate post-surgical care, and communication failures between departments. These issues contributed to the patient's deteriorating condition, highlighting that early detection and proper surgical practices could have prevented the infection and its serious consequences."
+    },
+    {
+      "pdf_name": "testingdata2.pdf",
+      "chunk": "Social History:  \n\u2022 Smoking:  Never smoked. \u2022 Alcohol:  Occasional, 1 -2 drinks per month. \u2022 Drug Use:  Denies any recreational drug use. \u2022 Exercise:  Regular jogging and Pilates. \u2022 Diet:  Mostly vegetarian, occasionally consumes dairy. Review of Systems:  \n\u2022 General:  Reports fatigue, denies significant weight loss or fever. \u2022 Skin:  No rashes or changes noted. \u2022 HEENT:  No vision changes, hearing loss, or sore throat. \u2022 Cardiovascular:  Denies chest pain or palpitations. \u2022 Respiratory:  No shortness of breath or wheezing. \u2022 Gastrointestinal:  Reports abdominal pain, bloating, and changes in bowel habits. \u2022 Genitourinary:  Denies dysuria or urinary frequency. \u2022 Musculoskeletal:  No joint pain or stiffness. \u2022 Neurological:  No headaches, dizziness, o r numbness. \u2022 Psychiatric:  Reports mild anxiety, denies depression. Medications:  \n\u2022 Omeprazole 20 mg:  Once daily for GERD. \u2022 Cetirizine 10 mg:  As needed for allergies. Physical Examination:  \n\u2022 Vital Signs:  \n\u2022 Blood Pressure:  118/74 mmHg  \n\u2022 Heart Rate:  68 bpm  \n\u2022 Respiratory Rate:  16 breaths/min  \n\u2022 Temperature:  98.2\u00b0F  \n\u2022 Oxygen Saturation:  99% on room air  \n\u2022 General:  Well -appearing, in no acute distress. \u2022 HEENT:  Normocephalic, atraumatic. Pupils reactive to light. \u2022 Neck:  No lymphadenopathy, no thyroid enlargement. \u2022 Cardiovascular:  Regular rhythm, no murmurs or gallops.",
+      "page_number": 2,
+      "patient_name": "Jane Smith",
+      "chunk_index": 1,
+      "hierarchical_level": 1
+    },
+    {
+      "pdf_name": "testingdata2.pdf",
+      "chunk": "Medical History Report  \nPatient Information:  \n\u2022 Name:  Jane Smith  \n\u2022 Date of Birth:  March 12, 1985  \n\u2022 Gender:  Female  \n\u2022 Marital Status:  Single  \n\u2022 Occupation:  Graphic Designer  \n\u2022 Primary Care Physician:  Dr. Robert Lee  \nChief Complaint:  \n\u2022 Persistent abdominal pain and bloating for the past three weeks. History of Present Illness:  \n\u2022 Onset:  Symptoms began approximately three weeks ago. \u2022 Duration:  Occurs daily, lasting throughout the day. \u2022 Character:  Described as a dull, cramping pain in the lower abdomen, with occasional sharp \nepisodes. \u2022 Associated Symptoms:  Bloating, gas, and occasional nausea. \u2022 Aggravating Factors:  Consumption of certain foods, stress. \u2022 Relieving Factors:  Resting, avoiding trigger foods. \u2022 Previous Episodes:  Similar episodes in the past, usually resolved without intervention. Past Medical History:  \n\u2022 Irritable Bowel Syndrome (IBS):  Diagnosed in 2018, managed with dietary modifications. \u2022 Seasonal Allergies:  Managed with over -the-counter antihistamines. \u2022 Surgeries:  Tonsillectomy in childhood. \u2022 Chronic Conditions:  None reported. Family History:  \n\u2022 Father:  Alive, age 62 (type 2 diabetes). \u2022 Mother:  Alive, age 60 (hypertension). \u2022 Siblings:  One brother (age 30, healthy).",
+      "page_number": 1,
+      "patient_name": "Jane Smith",
+      "chunk_index": 0,
+      "hierarchical_level": 1
+    },
+    {
+      "pdf_name": "testingdata2.pdf",
+      "chunk": "\u2022 Respiratory:  Clear to auscultation, no adventitious sounds. \u2022 Abdomen:  Soft, mild tenderness in the lower quadrants, no palpable masses. \u2022 Extremities:  No cyanosis, edema, or clubbing. \u2022 Neurological:  Cranial nerves II -XII intact, no focal deficits. Assessment:  \n\u2022 Abdominal pain and bloating, likely related to IBS. Differential diagnosis includes:  \n\u2022 Irritable Bowel Syndrome  \n\u2022 Gastroenteritis  \n\u2022 Food intolerance  \nPlan:  \n1. Diagnostic Testing:",
+      "page_number": 2,
+      "patient_name": "Jane Smith",
+      "chunk_index": 2,
+      "hierarchical_level": 1
+    }
+  ]
+}

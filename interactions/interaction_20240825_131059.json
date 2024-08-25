@@ -1,0 +1,57 @@
+{
+  "timestamp": "2024-08-25T13:10:59.105058",
+  "question": "give the list of important events",
+  "answer": "{\n  \"highlight\": [\n    \"His first job was at a grocery store, as a cashier, when he was 18. He says this job lasted about 6 months, he worked 20-30 hours a week, making minimum wage. He was fired after getting into an altercation with his supervisor.\",\n    \"At age 19, he worked at a car wash, drying cars. He says he worked about 20 hours per week, but was fired after a couple of months because, \u201cI ended up getting into it with my boss again.\u201d\",\n    \"After the car wash, Carl didn\u2019t work again until he was 24. He was a dishwasher at a restaurant for a few months.\",\n    \"He worked at a fast-food restaurant as a \u201cporter\u201d for two months in 2013. This involved transporting cooked foods from the kitchen area to the serving counter. He was fired from this job because he was not able to handle the stress during busy periods.\",\n    \"In 2015 he attempted work at a grocery store gas station. When asked about this job, Carl states \u201cI didn\u2019t like it at all. I hated being around people. My social anxiety got really bad, so I walked out on a shift.\u201d\",\n    \"His most recent job was at a fast-food restaurant earlier this year. It only lasted about a month. He says that \u201cWhen we got busy, I\u2019d flip out.\"\n  ],\n  \"filename\": \"msr1.pdf\",\n  \"page_number\": [1, 3, 7],\n  \"ans\": \"Carl John Smith experienced several significant employment events throughout his life. He started working at a grocery store as a cashier at age 18, lasting about six months before being fired after an altercation with his supervisor. At 19, he worked at a car wash but was fired after a couple of months due to conflicts with his boss. He had a brief stint as a dishwasher at a restaurant when he was 24, which ended due to anxiety during busy times. Later, he worked as a porter at a fast-food restaurant for two months in 2013 but was fired for stress-related issues. In 2015, he attempted to work at a grocery store gas station but left due to worsening social anxiety. His most recent job at a fast-food restaurant earlier this year lasted only about a month, ending because he could not cope with the busy environment.\"\n}",
+  "context_metadata": [
+    {
+      "pdf_name": "msr1.pdf",
+      "chunk_index": 7,
+      "page_number": 3,
+      "patient_name": "Carl John Smith   \nDOB",
+      "hierarchical_level": 0,
+      "cluster_id": null,
+      "summary_text": null,
+      "original_text": "concentrating, and anxiety during stressful situations. His fir st job was at a grocery store , as a \ncashier, when he was 18. He says this job lasted about 6 months, he worked 2 0-30 hours a \nweek, making minimum wage. He was fired after getting into an altercation with his supervisor. At age 19, he worked at a car wash, drying cars. He says he worked about 20 hours per week, \nbut was fired after a couple of months because , \u201cI ended up getting into it with my boss again.\u201d  \n After the car wash, Carl didn\u2019t work again until he was 24. He was a dishwasher at a restaurant \nfor a  few months. Mr. Smith  explains, \u201cIt was a lot to handle. A lot of stuff was going on at once, \nand I never could get the hang of it.\u201d He says when the restaurant became busy, his anxiety would get so bad that he\u2019d either shut down or have a panic attack. H e explains that he ended \nup walking out one day when he had a panic attack and couldn\u2019t bring himself back to work."
+    },
+    {
+      "pdf_name": "msr1.pdf",
+      "chunk_index": 9,
+      "page_number": 3,
+      "patient_name": "Carl John Smith   \nDOB",
+      "hierarchical_level": 0,
+      "cluster_id": null,
+      "summary_text": null,
+      "original_text": "I wouldn\u2019t \nhear the beeping sounds or see the orders.\u201d A letter from Carl \u2019s manage r at the fast -food  \nrestaurant states : \u201cCarl seemed to be real fidgety, shaky, and have high anxiety when he was \nworking here\u2026 He was capable of doing the job, but his high anxiety interfered with the job.\u201d \nThe co mplete letter is included in the SOAR  records packet submitted to DDS. Substance Use History:  \nCarl says he began drinking and using drugs early in his childhood. He states,  \u201cI kind of grew up \naround alcohol.\u201d Both of his parents were addicted to alcohol, and his mother was also addicted to crack- cocaine. Carl specifically remembers that he first began drinking  with his \nfriends, to cope with the verbal and physical abuse he wa s experiencing from his father; he \nexplains , \u201cWe did get into it quite a bit. I\u2019d drink on the weekends with my friends. I think I was \nabout 11 then.\u201d By 16, Carl was drinking frequently and smoking marijuana daily. At 17 he was \nexposed  to crack by his mother, and his drug use accelerated from there ."
+    },
+    {
+      "pdf_name": "msr1.pdf",
+      "chunk_index": 2,
+      "page_number": 1,
+      "patient_name": "Carl John Smith   \nDOB",
+      "hierarchical_level": 0,
+      "cluster_id": null,
+      "summary_text": null,
+      "original_text": "He states , \u201cMy mom smoked crack and drank a lot.\u201d Although \nhe says , \u201cit\u2019s hard remembering,\u201d Carl does recall that his mother had many hospitalizations \nduring the time he lived with her. He states , \u201cI saw my mom try to commit suicide at least 5 -6 \ntimes .\u201d In addition to the trauma inflicted by his mother\u2019s constant drug use and mental health \nchallenges, he also describes his stepfather  as \u201cabusive.\u201d He states , \u201cHe used to put his hands \non my mom. When I got grown enough, we\u2019d get into it.\u201d  \n \nCarl\u2019s tumultuous home -life and lack of parental support made school difficult. Despite being \ninvolved in special education;  he says , \u201cthey just passed me to get rid of me. \u201d As a result of this \nhe was involved in a lot of fighting with classmates and had trouble understanding coursework."
+    },
+    {
+      "pdf_name": "msr1.pdf",
+      "chunk_index": 24,
+      "page_number": 7,
+      "patient_name": "Carl John Smith   \nDOB",
+      "hierarchical_level": 0,
+      "cluster_id": null,
+      "summary_text": null,
+      "original_text": "I \u2019ve gotten worse and worse with every \nloss I\u2019ve had since my mom died.\u201d"
+    },
+    {
+      "pdf_name": "msr1.pdf",
+      "chunk_index": 8,
+      "page_number": 3,
+      "patient_name": "Carl John Smith   \nDOB",
+      "hierarchical_level": 0,
+      "cluster_id": null,
+      "summary_text": null,
+      "original_text": "He \nworked at a fast-food  restaurant as a \u201cporter\u201d for two months in 2013. This involved  \ntransporting cooked foods from the kitchen area  to the serving counter. He was fired from this \njob because he was not able to handle the stress during busy periods. In 2015 he attempted work at a grocery store  gas station. When asked about this job, Carl states \u201cI didn\u2019t like it at all. I \nhated being around people. My social anxiety got really bad, so I walked out on a shift.\u201d  \n His most recent job was at a fast -food  restaurant  earlier this year. It only lasted about a month. He says that \u201cWhen we got busy, I\u2019d flip out. The managers would see me freaking out in the back room, and tell me to go out side.\u201d When asked about other examples of his struggles  at \nthis position, Carl replied \u201cI\u2019d be at work, but my mind would be somewhere else."
+    }
+  ]
+}

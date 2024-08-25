@@ -1,0 +1,107 @@
+{
+  "timestamp": "2024-08-16T13:06:27.188592",
+  "question": "summarize the personal history ",
+  "answer": "{\n  \"highlight\": \"Ms. Carter was born and raised in Buffalo, NY. Her mother and stepfather raised her until they divorced when she was 11 or 12 years old. She was afraid for her son\u2019s safety and so she placed him in the foster care system and was never able to recover her custody. Mr. John Carter died 12 years after they married. The couple had never officially divorced. About 5 years ago, Ms. Carter had one other serious relationship with a woman for approximately one year. On the ending of that relationship, she said, \u201cI messed it up.\u201d Ms. Carter first experienced homelessness while she was living in New Jersey.\",\n  \"filename\": \"msr2.pdf\",\n  \"page_number\": 2,\n  \"ans\": \"Ms. Carter is a homeless woman facing depression and a history of trauma from her abusive childhood in Buffalo, NY. After enduring physical and emotional abuse from her parents, she ran away multiple times. At",
+  "context_metadata": [
+    {
+      "pdf_name": "msr2.pdf",
+      "chunk": "She \nlived with a girlfriend for five years while her son was young. She smiled when she talked about \nthis time and recounted it as one of the best times in her life. She then sighed and explained that \nshe messed it up and left to try out a heterosexual relationship, to build some stability for her son . When she was 22 years old, she married John  Carter. Mr. Carter was an alcoholic and very",
+      "page_number": 1,
+      "patient_name": null,
+      "chunk_index": 5,
+      "hierarchical_level": 1,
+      "cluster_path": null,
+      "summary": null
+    },
+    {
+      "pdf_name": "msr2.pdf",
+      "chunk": "2 abusive and so after 5 months, she moved out of the house into an apartment with her son. It was \nin that apartment that Ms. Carter  was brutally raped . A man came into her apartment where she \nwas sitting with her son and he ld a butcher knife to her neck as he raped her in front of her son. The experience was very traumatic to Ms. Carter  and was a turning point in her life .",
+      "page_number": 2,
+      "patient_name": null,
+      "chunk_index": 6,
+      "hierarchical_level": 1,
+      "cluster_path": null,
+      "summary": null
+    },
+    {
+      "pdf_name": "msr2.pdf",
+      "chunk": "Ms. Carter lived on the street when \nher time at the Homeless Center ran out and she was unable to find shelter. Ms. Carter  remains \nhomeless . Educational History  \n Ms. Carter left school in the 9\nth grade when she ran away from her father\u2019s house. When in \nschool, she attended special education classes and would get tutoring in some of her subjects . She stru ggled a lot with math and didn\u2019t like that subject in school. She did enjoy focusing on \nEnglish and Grammar .",
+      "page_number": 2,
+      "patient_name": null,
+      "chunk_index": 9,
+      "hierarchical_level": 1,
+      "cluster_path": null,
+      "summary": null
+    },
+    {
+      "pdf_name": "msr2.pdf",
+      "chunk": "She complained of the awful \nsmell of urine and the fact that a \u201c drug addict \u201d had stolen her psychiatric medications the night \nbefore . She wanted to come in off the street. Ms. Carter  was very depressed and did not ha ve the \nenergy to change her clothes or go through her normal grooming routine . Personal History  \n \nMs. Carter was born and raised in Buffalo, NY . Her mother and stepfather raised her until they \ndivorced when she was 11 or 12 years old.",
+      "page_number": 1,
+      "patient_name": null,
+      "chunk_index": 1,
+      "hierarchical_level": 1,
+      "cluster_path": "cluster_1",
+      "summary": "Ms. Carter is a homeless woman facing depression and a history of trauma from her abusive childhood in Buffalo, NY. After enduring physical and emotional abuse from her parents, she ran away multiple times. At 14, she moved in with her abusive biological father and subsequently became a mother at 17, only to lose custody of her son following a traumatic rape. Her mental health challenges have hindered her ability to maintain stable employment and housing, leading to years of homelessness after losing her Section 8 housing in 2006."
+    },
+    {
+      "pdf_name": "msr2.pdf",
+      "chunk": "She was \nafraid for her son\u2019s safety and so she placed him in the foster care system and was never able to recover her custody. Mr. John Carter died 12 years after they married . The couple had never officially divorced. About 5 years ago, Ms. Carter  had one other serious relationship with a woman for \napproximately one year. On the ending of that relations hip, she said, \u201cI messed it up.\u201d   \n Ms. Carter first experienced homelessness while she was living in New Jersey .",
+      "page_number": 2,
+      "patient_name": null,
+      "chunk_index": 7,
+      "hierarchical_level": 1,
+      "cluster_path": null,
+      "summary": null
+    },
+    {
+      "pdf_name": "msr2.pdf",
+      "chunk": "Ms. Carter  would often run -away from \nhome to get  away from the abusive environment. When Ms. Carter  was 14 years old her mother \nsent her to Ohio to live with her biological father . Her mother cited behavior problems as her \nreasons for sending her away. Ms. Carter \u2019s father was a compulsive gambler and p hysically \nabused Ms. Carter . When she was 14, her father asked her for sex and so she ran away for the \nfinal time. Ms. Carter reports that her mom was very depressed .",
+      "page_number": 1,
+      "patient_name": null,
+      "chunk_index": 3,
+      "hierarchical_level": 1,
+      "cluster_path": null,
+      "summary": null
+    },
+    {
+      "pdf_name": "msr2.pdf",
+      "chunk": "Ms. Carter wants to comply with treatment protocol, but due to the \nseverity of her mental illness is unable to understand, remember or apply information. Ms. Carter\u2019s thoughts are sometimes scattered because she often does not understand how to follow simple and routine instructions . She often repeats questions that she has just asked . She \nloses focus and does not seem to accept or remember answers to quest ions. When she was \nmaking notes of her treatment history, she wrote all over the sheet of paper in no particular order or spatial reasoning.",
+      "page_number": 7,
+      "patient_name": null,
+      "chunk_index": 43,
+      "hierarchical_level": 1,
+      "cluster_path": null,
+      "summary": null
+    },
+    {
+      "pdf_name": "msr2.pdf",
+      "chunk": "Patient struggles with depressive feelings of anger, resentment, jealousy that forms when she is involved in relationships which prevents her from being able to stay clean.\u201d  Her Axis I discharge diagnos es included : alcohol dependence, severe cocaine dependence, cannabis abuse, and \ndysthymic disorder . She was treated with Zoloft and Neurontin. Ms. Carter received treatment from Community Health and  Behavioral Services in New Jersey  \nfrom February 2001 to August 2002.",
+      "page_number": 4,
+      "patient_name": null,
+      "chunk_index": 24,
+      "hierarchical_level": 1,
+      "cluster_path": null,
+      "summary": null
+    },
+    {
+      "pdf_name": "msr2.pdf",
+      "chunk": "Ms. Carter received  treatment at C entral  Park in New Jersey  from March 2001 to April 2001. According to her me dical discharge summary, Ms. Carter  \u201cappeared depressed and irritable with \nlabile affect \u2026. [She ] struggles to share feelings from shame surrounding use . Patient\u2019s shame \nsurrounding her current lifestyle and behaviors as well as failed relationship with her son.",
+      "page_number": 4,
+      "patient_name": null,
+      "chunk_index": 23,
+      "hierarchical_level": 1,
+      "cluster_path": null,
+      "summary": null
+    },
+    {
+      "pdf_name": "msr2.pdf",
+      "chunk": "Ms. Carter  returned for the final time in August of 2004 and \nher case note explains \u201cClient has moderate deficits in all core areas\u2026client is in need of higher level of care such as an inpatient program followed by congregate level II facility in conjunction with intensive outpat ient and mental health counseling.\u201d   \n On January 29, 2004, Ms. Carter  participated in a treatment program at C entral Park. The \nClinical Discharge Summary taken by Ben Barry , a registered physician\u2019s assistant, stated that \nMs. Carter \u201creported having suicidal thoughts when depressed and thinks she wishes she was dead.",
+      "page_number": 5,
+      "patient_name": null,
+      "chunk_index": 32,
+      "hierarchical_level": 1,
+      "cluster_path": null,
+      "summary": null
+    }
+  ]
+}

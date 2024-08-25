@@ -1,0 +1,57 @@
+{
+  "timestamp": "2024-08-25T16:08:07.027000",
+  "question": "What is the take off speed",
+  "answer": "{\n  \"highlight\": [\n    {\n      \"text\": \"failure to reach take-off RPM (2680 \u00b1 20 RPM) are reasons for aborting the take-off.\",\n      \"page_number\": 141,\n      \"filename\": \"manual2a.pdf\"\n    },\n    {\n      \"text\": \"For take-off from dry, short-cut grass covered runways, the following corrections must be taken into account, compared to paved runways (typical values, see CAUTION above):\",\n      \"page_number\": 181,\n      \"filename\": \"manual2a.pdf\"\n    },\n    {\n      \"text\": \"take-off should not be attempted.\",\n      \"page_number\": 181,\n      \"filename\": \"manual2a.pdf\"\n    },\n    {\n      \"text\": \"the take-off roll may become significantly longer than stated below.\",\n      \"page_number\": 181,\n      \"filename\": \"manual2a.pdf\"\n    }\n  ],\n  \"ans\": \"The take-off speed is indicated by the required RPM of 2680 \u00b1 20 RPM. Additionally, the take-off roll can be affected by runway conditions, such as grass length and wetness, which may require adjustments to the expected take-off distance.\"\n}",
+  "context_metadata": [
+    {
+      "pdf_name": "manual2a.pdf",
+      "chunk_index": 204,
+      "page_number": 141,
+      "patient_name": null,
+      "hierarchical_level": 0,
+      "cluster_id": null,
+      "summary_text": null,
+      "original_text": "DA 40 AFMNormal OperatingProcedures\nDoc. # 6.01.01-E Rev. 8 01-Dec-2010 Page 4A - 254A.3.7  TAKE-OFFNormal Take-Off Procedure1. Transponder........................ O N / A L T2. RPM lever . . . . . . . . . . . . . . . . . . . . . . . . . . check HIGH RPM3. Throttle . . . . . . . . . . . . . . . . . . . . . . . . . . . . MAX PWR (not abruptly)WARNINGThe proper performance of the engine at full throttle shouldbe checked early in the take-off procedure, so that the take-offcan be aborted if necessary.%A rough engine, sluggish RPM increase, or failure to reachtake-off RPM (2680 \u00b1 20 RPM) are reasons for aborting the%take-off. If the engine oil is cold, an oil pressure in the yellowsector is permissible.4. Elevator . . . . . . . . . . . . . . . . . . . . . . . . . . . .neutral5. Rudder. . . . . . . . . . . . . . . . . . . . . . . . . . ."
+    },
+    {
+      "pdf_name": "manual2a.pdf",
+      "chunk_index": 264,
+      "page_number": 181,
+      "patient_name": null,
+      "hierarchical_level": 0,
+      "cluster_id": null,
+      "summary_text": null,
+      "original_text": "The effect on the take-off roll can be greater."
+    },
+    {
+      "pdf_name": "manual2a.pdf",
+      "chunk_index": 263,
+      "page_number": 181,
+      "patient_name": null,
+      "hierarchical_level": 0,
+      "cluster_id": null,
+      "summary_text": null,
+      "original_text": "In anycase the pilot must allow for the condition of the runway toensure a safe take-off.NOTEFor take-off from dry, short-cut grass covered runways, thefollowing corrections must be taken into account, comparedto paved runways (typical values, see CAUTION above):-G r a s s  u p  t o  5  c m  ( 2  i n )  l o n g :  1 0  %  i n c r e a s e  i n  t a k e - o f f  r o l l .-G r a s s  5  t o  1 0  c m  ( 2  t o  4  i n )  long: 15 % increase in take-offroll.-G r a s s  l o n g e r  t h a n  1 0  c m  ( 4  i n): at least 25 % increase intake-off roll.-G r a s s  l o n g e r  t h a n  2 5  c m  (10 in): take-off should not beattempted.NOTEOn wet grass, a further 10 % increase in take-off roll mustbe expected.NOTEAn uphill slope of 2 % (2 m per 100 m, or 2 ft per 100 ft)results in an increase in the take-off distance of approximately10 %."
+    },
+    {
+      "pdf_name": "manual2a.pdf",
+      "chunk_index": 270,
+      "page_number": 187,
+      "patient_name": null,
+      "hierarchical_level": 0,
+      "cluster_id": null,
+      "summary_text": null,
+      "original_text": "DA 40 AFM Performance\nDoc. # 6.01.01-E Rev. 8 01-Dec-2010 Page 5 - 175.3.9  CRUISING (TRUE AIRSPEED TAS)Diagram to establish true airspeed (TAS) at a given power setting. Example: Pressure altitude . . . . . . . . . . . . .5000 ftTemperature . . . . . . . . . . . . . . . . 15 (C (59 \u00b0F)Power setting . . . . . . . . . . . . . . . 55 %Result: True Airspeed (TAS)..........118 ktsCAUTIONIn case of operation without wheel fairings the cruising speedreduces by approximately 5 %."
+    },
+    {
+      "pdf_name": "manual2a.pdf",
+      "chunk_index": 262,
+      "page_number": 181,
+      "patient_name": null,
+      "hierarchical_level": 0,
+      "cluster_id": null,
+      "summary_text": null,
+      "original_text": "DA 40 AFM Performance\nDoc. # 6.01.01-E Rev. 8 01-Dec-2010 Page 5 - 11CAUTIONThe figures in the following NOTE are typical values. On wetground or wet soft grass covered runways the take-off rollmay become significantly longer than stated below."
+    }
+  ]
+}

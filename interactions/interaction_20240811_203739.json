@@ -1,0 +1,87 @@
+{
+  "timestamp": "2024-08-11T20:37:39.176526",
+  "question": "what is @getmapping ",
+  "answer": "{\n  \"highlight\": \"@GetMapping : Spring MVC\u2019s annotation to map HTTP GET / calls to this method.\",\n  \"filename\": \"Greg_L_Turnquist_-_Learning_Spring_Boot_3_0_Simplify_the_development_of_production-grade_applications_using_Java_and_Spring.pdf\",\n  \"page_number\": 47,\n  \"ans\": \"It is an annotation to map HTTP GET calls to a method in Spring MVC.\"\n}",
+  "context_metadata": [
+    {
+      "pdf_name": "Greg_L_Turnquist_-_Learning_Spring_Boot_3_0_Simplify_the_development_of_production-grade_applications_using_Java_and_Spring.pdf",
+      "chunk": "\u2022 @GetMapping : Spring MVC\u2019s annotation to map HTTP GET /  calls to this method. \u2022 index : Because we used the @Controller  annotation, index  turns out to be the name \nof the template we wish to render. The name of the class and the name of the method aren\u2019t critical. They can really be anything. The critical \nparts are the annotations. @Controller  signals this class is a web controller, and @GetMapping  \nindicates that the GET /  calls are to be routed to this method.",
+      "page_number": 47,
+      "patient_name": null,
+      "chunk_index": 141,
+      "hierarchical_level": 1
+    },
+    {
+      "pdf_name": "Greg_L_Turnquist_-_Learning_Spring_Boot_3_0_Simplify_the_development_of_production-grade_applications_using_Java_and_Spring.pdf",
+      "chunk": "Securing an Application with Spring Boot 110\n    enum Sort {\n      DATE(\"date\"), //\n      VIEW_COUNT(\"viewCount\"), //\n      TITLE(\"title\"), //\n      RATING(\"rating\");\n      private final String type;\n      Sort(String type) {\n        this.type = type;\n      }\n    }\n}\nThe preceding interface has a single method: channelVideos . In truth, the name of this method \ndoesn\u2019t matter, because it\u2019s the @GetExchange  method that matters. In Chapter 2 , Creating a Web \nApplication with Spring Boot , we saw how to use @GetMapping  to link HTTP GET  operations with \nSpring MVC controller methods. For HTTP  remoting, the counterpart annotation is @GetExchange .",
+      "page_number": 129,
+      "patient_name": null,
+      "chunk_index": 440,
+      "hierarchical_level": 1
+    },
+    {
+      "pdf_name": "Greg_L_Turnquist_-_Learning_Spring_Boot_3_0_Simplify_the_development_of_production-grade_applications_using_Java_and_Spring.pdf",
+      "chunk": "We can use it in a web controller like this:\n@RestController\npublic class ApiController {\n  @GetMapping(\"/api/employees\")\n  Flux<Employee> employees() {\n    return Flux.just( //\n      new Employee(\"alice\", \"management\"), //\n      new Employee(\"bob\", \"payroll\"));\n  }\n}\nThis RESTful web controller can be described as follows:\n\u2022 @RestController : Spring Web\u2019s annotation to indicate that this controller involves data, \nnot templates\n\u2022 @GetMapping : Spring Web\u2019s annotation to map HTTP GET /api/employees  web calls \nonto this method\n\u2022 Flux<Employee> : The return type is a Flux  of Employee  records\nFlux  is sort of like combining a classic Java List  with a Future . But not really.",
+      "page_number": 227,
+      "patient_name": null,
+      "chunk_index": 767,
+      "hierarchical_level": 1
+    },
+    {
+      "pdf_name": "Greg_L_Turnquist_-_Learning_Spring_Boot_3_0_Simplify_the_development_of_production-grade_applications_using_Java_and_Spring.pdf",
+      "chunk": "Creating hypermedia reactively\n 223\nTo better see this, let\u2019s implement that aggregate root \u2013 the hypermedia-aware end mentioned in the \nprevious code block:\n@GetMapping(\"/hypermedia/employees\")\nMono<CollectionModel<EntityModel<Employee>>> employees() {\nMono<Link> selfLink = linkTo( //\n  methodOn(HypermediaController.class) //\n    .employees()) //\n       .withSelfRel() //\n       .toMono();\nreturn selfLink //\n  .flatMap(self -> Flux.fromIterable(DATABASE.keySet()) //\n    .flatMap(key -> employee(key)) //\n    .collectList() //\n    .map(entityModels -> CollectionModel.of(entityModels, \n      self)));\n}\nPart of this method should look very similar to the previous code block. Let\u2019s focus on the differences:\n\u2022 @GetMapping : This method maps GET /hypermedia/employees  to this method, \nthe aggregate root.",
+      "page_number": 242,
+      "patient_name": null,
+      "chunk_index": 824,
+      "hierarchical_level": 1
+    },
+    {
+      "pdf_name": "Greg_L_Turnquist_-_Learning_Spring_Boot_3_0_Simplify_the_development_of_production-grade_applications_using_Java_and_Spring.pdf",
+      "chunk": "Look at the following code:\n@RestController\npublic class ApiController {\n  private final VideoService videoService;\n  public ApiController(VideoService videoService) {\n    this.videoService = videoService;\n  }\n  @GetMapping(\"/api/videos\")\n  public List<Video> all() {\n    return videoService.getVideos();\n  }\n}",
+      "page_number": 59,
+      "patient_name": null,
+      "chunk_index": 186,
+      "hierarchical_level": 1
+    },
+    {
+      "pdf_name": "Greg_L_Turnquist_-_Learning_Spring_Boot_3_0_Simplify_the_development_of_production-grade_applications_using_Java_and_Spring.pdf",
+      "chunk": "Important\nThe @EnableHypermediaSupport  annotation only has to be used once. We happen to be \nputting on our hypermedia controller for brevity in this book. In a real application, it may be \npreferable to put it in the same class that has the @SpringBootApplication  annotation. With all this in place, let\u2019s start by building a hypermedia endpoint for a single-item resource, one \nemployee, as shown here:\n@GetMapping(\"/hypermedia/employees/{key}\")\nMono<EntityModel<Employee>> employee(@PathVariable String \n  key) {\n        Mono<Link> selfLink = linkTo( //\n            methodOn(HypermediaController.class) //",
+      "page_number": 239,
+      "patient_name": null,
+      "chunk_index": 816,
+      "hierarchical_level": 1
+    },
+    {
+      "pdf_name": "Greg_L_Turnquist_-_Learning_Spring_Boot_3_0_Simplify_the_development_of_production-grade_applications_using_Java_and_Spring.pdf",
+      "chunk": "\u2022 linkTo() : Spring HATEOAS\u2019s static helper function to extract a link from a Spring WebFlux \nmethod invocation. \u2022 methodOn() : Spring HATEOAS\u2019s static helper function to perform a dummy invocation of \na controller\u2019s web method to gather information for building links. In the first usage, we are \npointing at the employee(String key)  method of HypermediaController . In the \nsecond usage, we are pointing at the employees()  method of HypermediaController  \n(not yet written). \u2022 withSelfRel() : Spring HATEOAS\u2019s method to label selfLink  with a self  hypermedia \nrelation  (which we\u2019ll see shortly).",
+      "page_number": 240,
+      "patient_name": null,
+      "chunk_index": 818,
+      "hierarchical_level": 1
+    },
+    {
+      "pdf_name": "Greg_L_Turnquist_-_Learning_Spring_Boot_3_0_Simplify_the_development_of_production-grade_applications_using_Java_and_Spring.pdf",
+      "chunk": "It signals to Spring \nBoot that this class should be automatically picked up for component scanning as a Spring bean. This \nbean will be registered in the application context and also with Spring MVC as a controller class so \nit can route web calls. But it has one additional property\u2014it switches every web method from being template-based to \nJSON-based. In other words, instead of a web method returning the name of a template that Spring \nMVC renders through a templating engine, it instead serializes the results using Jackson.",
+      "page_number": 59,
+      "patient_name": null,
+      "chunk_index": 185,
+      "hierarchical_level": 1
+    },
+    {
+      "pdf_name": "Greg_L_Turnquist_-_Learning_Spring_Boot_3_0_Simplify_the_development_of_production-grade_applications_using_Java_and_Spring.pdf",
+      "chunk": "Conventions used\nThere are a number of text conventions used throughout this book. Code in text : Indicates code words in text, database table names, folder names, filenames, file \nextensions, pathnames, dummy URLs, user input, and Twitter handles. Here is an example: \u201cThis can be \ndone by first adding an application.properties  file to our src/main/resources  folder. \u201d\nA block of code is set as follows:\n@Controller\npublic class HomeController {\n  private final VideoService videoService;\n  public HomeController(VideoService videoService) {\n    this.videoService = videoService;\n  }\n  @GetMapping(\"/\")\n  public String index(Model model) {\n    model.addAttribute(\"videos\", videoService.getVideos());\n    return \"index\";\n  }\n}",
+      "page_number": 16,
+      "patient_name": null,
+      "chunk_index": 44,
+      "hierarchical_level": 1
+    },
+    {
+      "pdf_name": "Greg_L_Turnquist_-_Learning_Spring_Boot_3_0_Simplify_the_development_of_production-grade_applications_using_Java_and_Spring.pdf",
+      "chunk": "This is where it shines. We will create \na class and then mark it with one of Spring Framework\u2019s @Component -based annotations, \nfor example, @Service  or @Controller , along with several others. When Spring Boot \nstarts up, one of its first jobs is to run its component scanner, seeking out these classes and \ninstantiating copies. These beans are then registered in the application context, ready to be \nautowired into any other Spring beans that demand it.",
+      "page_number": 54,
+      "patient_name": null,
+      "chunk_index": 166,
+      "hierarchical_level": 1
+    }
+  ]
+}

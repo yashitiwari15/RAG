@@ -1,0 +1,107 @@
+{
+  "timestamp": "2024-08-17T12:31:44.393149",
+  "question": "explain summary of ava cater work history",
+  "answer": "{\n  \"highlight\": \"According to case notes from The Real Recovery Network in July of 2002, Ava worked for St. Eliza\u2019s hospital but quit after only a week due to \u201cpersonal situations.\u201d\",\n  \"filename\": \"msr2.pdf\",\n  \"page_number\": 2,\n  \"ans\": \"Ava Carter worked for St. Eliza\u2019s hospital but quit after only a week due to personal situations.\"\n}",
+  "context_metadata": [
+    {
+      "pdf_name": "msr2.pdf",
+      "chunk": "She would isolate herself \nfrom people and not go in to work. According to case notes from The Real  Recovery Network in July of 2002, Ava  worked for St. \nEliza\u2019s hospital but quit after only a week due to \u201cpersonal situations.\u201d",
+      "page_number": 2,
+      "patient_name": null,
+      "chunk_index": 12,
+      "hierarchical_level": 1,
+      "cluster_path": null,
+      "summary": null
+    },
+    {
+      "pdf_name": "msr2.pdf",
+      "chunk": "She stated that the impetus for \nher use was an argument bet ween her and her sister.\u201d  \n According to The Real  Recovery Network\u2019s progress notes from October 2002, Ms. Carter  was \nasked to leave the program  due to non- compliance with regulations . She refused to move \nforward into a treatment program because she did not \u201cget along with the staff .\u201d  It was noted \nthat at that time \u201c Ava\u2019s demeanor was despondent and hopeless.",
+      "page_number": 5,
+      "patient_name": null,
+      "chunk_index": 29,
+      "hierarchical_level": 1,
+      "cluster_path": null,
+      "summary": null
+    },
+    {
+      "pdf_name": "msr2.pdf",
+      "chunk": "The Real  Recovery Network reported that Ms. Carter  would fail to take her depression \nmedication and would resort to drug use when a problem arose that made her feel severely depressed . The September 2002 Real  Recovery Network progress notes stated, \u201cAva  had \ncomplaints of severe depression today. She again questioned if she should take her prescribed medications . This writer informed Ava of the possible symptomology she may experience \nwithout the psychotropics . Ava  states she used crack on 9/10/02.",
+      "page_number": 5,
+      "patient_name": null,
+      "chunk_index": 28,
+      "hierarchical_level": 1,
+      "cluster_path": null,
+      "summary": null
+    },
+    {
+      "pdf_name": "msr2.pdf",
+      "chunk": "Ms. Carter wants to comply with treatment protocol, but due to the \nseverity of her mental illness is unable to understand, remember or apply information. Ms. Carter\u2019s thoughts are sometimes scattered because she often does not understand how to follow simple and routine instructions . She often repeats questions that she has just asked . She \nloses focus and does not seem to accept or remember answers to quest ions. When she was \nmaking notes of her treatment history, she wrote all over the sheet of paper in no particular order or spatial reasoning.",
+      "page_number": 7,
+      "patient_name": null,
+      "chunk_index": 43,
+      "hierarchical_level": 1,
+      "cluster_path": null,
+      "summary": null
+    },
+    {
+      "pdf_name": "msr2.pdf",
+      "chunk": "1 January 17, 2023 \n \n \nMs. An drea Walker  \nDisability Determination  Services  \nFax: 555- 555-2635 \nRe: Ava  Carter \n         SSN: 999- 99-9999 \nDOB: 11/07/1960 \n \nTo Whom It May Concern:  \n \nMs. Ava  Carter  is a 47 -year-old, single, woman  who has a history of bipolar disorder with major \ndepression. Ms. Carter is an average sized (5\u20198\u201d) woman of medium build. Ms. Carter has brown \neyes and short black hair with a streak of gray . We first met Ms. Carter where she was sleeping under a bridge.",
+      "page_number": 1,
+      "patient_name": null,
+      "chunk_index": 0,
+      "hierarchical_level": 1,
+      "cluster_path": "cluster_0",
+      "summary": "Ava Carter, a 47-year-old woman, has a long-standing history of bipolar disorder, major depression, and substance abuse. She has faced significant challenges, including homelessness and chronic knee pain from a past injury. Ms. Carter has struggled with alcohol, marijuana, and crack cocaine as coping mechanisms for her mental health issues. Despite multiple treatment attempts, she has difficulty maintaining sobriety and managing her mental health. Her psychiatric evaluations show symptoms like racing thoughts, severe depression, and anxiety, and she has had issues with medication compliance, particularly during substance use."
+    },
+    {
+      "pdf_name": "msr2.pdf",
+      "chunk": "2 abusive and so after 5 months, she moved out of the house into an apartment with her son. It was \nin that apartment that Ms. Carter  was brutally raped . A man came into her apartment where she \nwas sitting with her son and he ld a butcher knife to her neck as he raped her in front of her son. The experience was very traumatic to Ms. Carter  and was a turning point in her life .",
+      "page_number": 2,
+      "patient_name": null,
+      "chunk_index": 6,
+      "hierarchical_level": 1,
+      "cluster_path": null,
+      "summary": null
+    },
+    {
+      "pdf_name": "msr2.pdf",
+      "chunk": "She reports a number of fast -food jobs, such as \nMcDonalds . She would cook the fries or clean the dining room . She would occasionally be asked \nto run the register, but would quickly be removed from those duties, as she would make too \nmany errors . She reports that they would often take money from her check for those errors . Ms. \nCarter  would often lose her jobs because of her depression. She would not be able to get out of \nbed and go in to work and she would be fired for no- call, no- show .",
+      "page_number": 2,
+      "patient_name": null,
+      "chunk_index": 11,
+      "hierarchical_level": 1,
+      "cluster_path": null,
+      "summary": null
+    },
+    {
+      "pdf_name": "msr2.pdf",
+      "chunk": "Ms. Carter \u2019s dis charge \nsummary from October 2, 2002, recommends that she be placed in a Congregate Care Level II facility (highly structured environment with 24/7 staff supervision), which indicates her inability to care for herself independently .",
+      "page_number": 5,
+      "patient_name": null,
+      "chunk_index": 31,
+      "hierarchical_level": 1,
+      "cluster_path": null,
+      "summary": null
+    },
+    {
+      "pdf_name": "msr2.pdf",
+      "chunk": "Other times, she would \u201cact out verbally.\u201d Also, she states, \n\u201cSometimes I don\u2019t have the energy to get up, so I\u2019ll just sleep through those mealtimes  and hope \nfood comes from somewhere else.\u201d  \n Adapt or M anage O neself  \nMs. Carter reacts unexpectedly and inap propriately in stressful or new situations . Ms. Carter has \nbeen unable to maintain housing due to the symptoms of her bipolar disorder . Ms. Carter \ncontinuously tries to get treatment for her mental health symptoms but often finds her depression and anxiety unbearable and so she treats those symptoms with substances .",
+      "page_number": 7,
+      "patient_name": null,
+      "chunk_index": 47,
+      "hierarchical_level": 1,
+      "cluster_path": null,
+      "summary": null
+    },
+    {
+      "pdf_name": "msr2.pdf",
+      "chunk": "Ms. Carter first lost her Section 8 housing because she did not attend her recertification appointment because she  did not follow basic procedures written down for her \nwhich has led to her homelessness. She has been asked to leave homeless shelters because she is unable to follow curfews due to her confusion over the concept of time . Interact with O thers  \nMs. Carter  reacts unexpectedly and inappropriately when interacting with others in stressful or \nnew situations . Upon building rapport with Ms. Carter,  she can become  very personable and \nfriendly.",
+      "page_number": 7,
+      "patient_name": null,
+      "chunk_index": 44,
+      "hierarchical_level": 1,
+      "cluster_path": null,
+      "summary": null
+    }
+  ]
+}

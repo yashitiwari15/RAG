@@ -1,0 +1,54 @@
+{
+  "timestamp": "2024-08-25T14:51:27.736044",
+  "question": "are there any siblings of  Clara Atkins",
+  "answer": "{\n  \"highlight\": [\n    {\n      \"text\": \"the secondary contact is her sister, Sarah Jones.\",\n      \"page_number\": 1,\n      \"filename\": \"report4pr.pdf\"\n    },\n    {\n      \"text\": \"Emergency Contacts: \\n\u2022 Secondary: Sarah Jones (Sister) - 01962 789012\",\n      \"page_number\": 4,\n      \"filename\": \"report4pr.pdf\"\n    }\n  ],\n  \"ans\": \"Yes, Clara Atkins has a sister named Sarah Jones.\"\n}",
+  "context_metadata": [
+    {
+      "pdf_name": "report4.pdf",
+      "chunk_index": 0,
+      "page_number": 1,
+      "patient_name": "Clara Atkins  \nDate of Birth",
+      "hierarchical_level": 1,
+      "cluster_id": 1,
+      "summary_text": "**Clinical Negligence Report Summary**\n\n**Patient Information:**\n- Name: Clara Atkins\n- Date of Birth: 15/08/1985\n- NHS Number: 123 456 7890\n- Address: 23 Green Lane, Winchester, Hampshire, SO22 4QP\n- Date of Report: 25/08/2024\n\n**Introduction:**\nClara Atkins, a 39-year-old female, alleges clinical negligence regarding her treatment at Winchester General Hospital following her admission on 14/03/2024 for severe abdominal pain and fever. This report reviews her medical history, treatment, and care failures to assess if the standard of care fell below expectations and caused her harm.\n\n**Case Summary:**"
+    },
+    {
+      "pdf_name": "report4pr.pdf",
+      "chunk_index": 0,
+      "page_number": 1,
+      "patient_name": "Clara Atkins",
+      "hierarchical_level": 1,
+      "cluster_id": 0,
+      "summary_text": "The patient, a mother of two children aged 10 and 7, has expressed concerns about ongoing abdominal pain and fatigue, which will be monitored and assessed further. She has a strong family history of cardiovascular disease, and regular cardiovascular risk assessments are recommended. The primary emergency contact is her husband, Michael Atkins, and the secondary contact is her sister, Sarah Jones. The information was last updated on August 25, 2024, and the responsible GP is Dr. Emily Brown from Winchester Health Centre."
+    },
+    {
+      "pdf_name": "report4pr.pdf",
+      "chunk_index": 3,
+      "page_number": 4,
+      "patient_name": "Clara Atkins",
+      "hierarchical_level": 0,
+      "cluster_id": null,
+      "summary_text": null,
+      "original_text": "\u2022 Children:  Two (Ages 10 and 7)  \n \nEmergency Contacts:  \n\u2022 Primary:  Michael Atkins (Husband) - 01962 654321  \n\u2022 Secondary:  Sarah Jones (Sister) - 01962 789012  \n \nNotes:  \n\u2022 Patient has expressed concerns about ongoing abdominal pain and fatigue. Monitoring \nand further assessment are planned. \u2022 Strong family history of cardiovascular disease; recommend regular cardiovascular risk \nassessment. Last Updated:  25/08/2024  \nResponsible GP:  Dr. Emily Brown, Winchester Health Centre  \nSignature:  \n[Signature of GP]"
+    },
+    {
+      "pdf_name": "report4pr.pdf",
+      "chunk_index": 0,
+      "page_number": 1,
+      "patient_name": "Clara Atkins",
+      "hierarchical_level": 1,
+      "cluster_id": 1,
+      "summary_text": "**Patient Summary: Clara Atkins**  \n- **Personal Information:**  \n  - Date of Birth: 15/08/1985  \n  - NHS Number: 123 456 7890  \n  - Address: 23 Green Lane, Winchester, Hampshire, SO22 4QP  \n  - Contact: 01962 123456 / clara.atkins@email.com  \n  - Next of Kin: Michael Atkins (Husband) - Contact: 01962 654321  \n\n- **Medical History:**  \n  - **Hypertension:** Diagnosed on 01/07/2018, managed with Lisinopril 10mg daily; well-controlled.  \n  - **Asthma:** Diagnosed in childhood, uses Sal"
+    },
+    {
+      "pdf_name": "report4.pdf",
+      "chunk_index": 0,
+      "page_number": 1,
+      "patient_name": "Clara Atkins  \nDate of Birth",
+      "hierarchical_level": 0,
+      "cluster_id": null,
+      "summary_text": null,
+      "original_text": "Clinical Negligence Report  \nPatient Name:  Clara Atkins  \nDate of Birth:  15/08/1985  \nNHS Number:  123 456 7890  \nAddress:  23 Green Lane, Winchester, Hampshire, SO22 4QP \nDate of Report:  25/08/2024  \n \n1. Introduction  \nThis clinical negligence report has been prepared at the request of Ms. Clara Atkins, a 39 -year -\nold female, who has alleged negligence in the medical treatment she received at Winchester \nGeneral Hospital. This report is a comprehensive review of her medical history, the treatment provided, and th e alleged failures in care, leading to the current situation. The objective is to \ndetermine whether the standard of care provided fell below that which could reasonably be \nexpected, and if so, whether this resulted in harm to the patient. 2. Summary of Case  \nMs. Clara Atkins attended Winchester General Hospital on 14/03/2024, presenting with severe \nabdominal pain and a high fever. She was initially seen in the Accident and Emergency (A&E) department and subsequently admitted to the general surgical ward for further evaluation and management. During her hospital stay, she underwent a series of diagnostic tests, including \nblood tests, imaging studies, and a laparoscopy."
+    }
+  ]
+}

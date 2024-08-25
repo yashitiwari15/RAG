@@ -1,0 +1,55 @@
+{
+  "timestamp": "2024-08-25T14:47:41.038686",
+  "question": "what medications were taken by Clara Atkins",
+  "answer": "{\n  \"highlight\": [\n    {\n      \"text\": \"Lisinopril 10mg daily\",\n      \"page_number\": 1,\n      \"filename\": \"report4pr.pdf\"\n    },\n    {\n      \"text\": \"Salbutamol inhaler as needed\",\n      \"page_number\": 1,\n      \"filename\": \"report4.pdf\"\n    },\n    {\n      \"text\": \"Omeprazole 20mg daily\",\n      \"page_number\": 1,\n      \"filename\": \"report4.pdf\"\n    },\n    {\n      \"text\": \"oral antibiotics\",\n      \"page_number\": 2,\n      \"filename\": \"report4.pdf\"\n    },\n    {\n      \"text\": \"intravenous antibiotics\",\n      \"page_number\": 1,\n      \"filename\": \"report4.pdf\"\n    }\n  ],\n  \"ans\": \"Clara Atkins was taking Lisinopril 10mg daily for hypertension, a Salbutamol inhaler as needed for asthma, and Omeprazole 20mg daily for GERD. Additionally, she received intravenous antibiotics during her hospital stay and was discharged with oral antibiotics.\"\n}",
+  "context_metadata": [
+    {
+      "pdf_name": "report4.pdf",
+      "chunk_index": 0,
+      "page_number": 1,
+      "patient_name": "Clara Atkins  \nDate of Birth",
+      "hierarchical_level": 1,
+      "cluster_id": 1,
+      "summary_text": "**Clinical Negligence Report Summary**\n\n**Patient Information:**\n- Name: Clara Atkins\n- Date of Birth: 15/08/1985\n- NHS Number: 123 456 7890\n- Address: 23 Green Lane, Winchester, Hampshire, SO22 4QP\n- Date of Report: 25/08/2024\n\n**Introduction:**\nClara Atkins, a 39-year-old female, alleges clinical negligence regarding her treatment at Winchester General Hospital following her admission on 14/03/2024 for severe abdominal pain and fever. This report reviews her medical history, treatment, and care failures to assess if the standard of care fell below expectations and caused her harm.\n\n**Case Summary:**"
+    },
+    {
+      "pdf_name": "report4pr.pdf",
+      "chunk_index": 0,
+      "page_number": 1,
+      "patient_name": "Clara Atkins",
+      "hierarchical_level": 1,
+      "cluster_id": 1,
+      "summary_text": "**Patient Summary: Clara Atkins**  \n- **Personal Information:**  \n  - Date of Birth: 15/08/1985  \n  - NHS Number: 123 456 7890  \n  - Address: 23 Green Lane, Winchester, Hampshire, SO22 4QP  \n  - Contact: 01962 123456 / clara.atkins@email.com  \n  - Next of Kin: Michael Atkins (Husband) - Contact: 01962 654321  \n\n- **Medical History:**  \n  - **Hypertension:** Diagnosed on 01/07/2018, managed with Lisinopril 10mg daily; well-controlled.  \n  - **Asthma:** Diagnosed in childhood, uses Sal"
+    },
+    {
+      "pdf_name": "report4.pdf",
+      "chunk_index": 0,
+      "page_number": 1,
+      "patient_name": "Clara Atkins  \nDate of Birth",
+      "hierarchical_level": 0,
+      "cluster_id": null,
+      "summary_text": null,
+      "original_text": "Clinical Negligence Report  \nPatient Name:  Clara Atkins  \nDate of Birth:  15/08/1985  \nNHS Number:  123 456 7890  \nAddress:  23 Green Lane, Winchester, Hampshire, SO22 4QP \nDate of Report:  25/08/2024  \n \n1. Introduction  \nThis clinical negligence report has been prepared at the request of Ms. Clara Atkins, a 39 -year -\nold female, who has alleged negligence in the medical treatment she received at Winchester \nGeneral Hospital. This report is a comprehensive review of her medical history, the treatment provided, and th e alleged failures in care, leading to the current situation. The objective is to \ndetermine whether the standard of care provided fell below that which could reasonably be \nexpected, and if so, whether this resulted in harm to the patient. 2. Summary of Case  \nMs. Clara Atkins attended Winchester General Hospital on 14/03/2024, presenting with severe \nabdominal pain and a high fever. She was initially seen in the Accident and Emergency (A&E) department and subsequently admitted to the general surgical ward for further evaluation and management. During her hospital stay, she underwent a series of diagnostic tests, including \nblood tests, imaging studies, and a laparoscopy."
+    },
+    {
+      "pdf_name": "report4.pdf",
+      "chunk_index": 4,
+      "page_number": 2,
+      "patient_name": "Clara Atkins  \nDate of Birth",
+      "hierarchical_level": 0,
+      "cluster_id": null,
+      "summary_text": null,
+      "original_text": "She was \ufb01nally discharged on 25/03/2024 with oral antibiotics and \ninstructions for follow -up with her GP . 4.6. 10/04/2024 -  Follow -Up Appointment  \nMs. Atkins attended a follow -up appointment with her GP on 10/04/2024. She reported ongoing"
+    },
+    {
+      "pdf_name": "report4.pdf",
+      "chunk_index": 1,
+      "page_number": 1,
+      "patient_name": "Clara Atkins  \nDate of Birth",
+      "hierarchical_level": 0,
+      "cluster_id": null,
+      "summary_text": null,
+      "original_text": "Despite receiving treatment, including intravenous antibiotics and pain relief, Ms. Atkins\u2019 \ncondition deteriorated, resulting in a prolonged hospital stay and subsequent complications. She was eventually diagnosed with a perforated appendix, which required  emergency surgery. Ms. Atkins claims that delays in diagnosis and treatment led to unnecessary suffering and a \nprolonged recovery period. 3. Medical History  \n3.1. Past Medical History  \n\u2022 Hypertension: Diagnosed in 2018, well -controlled with medication (Lisinopril 10mg \ndaily). \u2022 Asthma : Diagnosed in childhood, managed with a Salbutamol inhaler as needed. \u2022 Gastroesophageal Re\ufb02ux Disease (GERD) : Diagnosed in 2021, managed with \nOmeprazole 20mg daily. 3.2. Surgical History \n\u2022 Appendectomy : Emergency appendectomy on 20/03/2024. 3.3. Medication History  \n\u2022 Lisinopril 10mg once daily  for hypertension. \u2022 Salbutamol inhaler  as needed for asthma. \u2022 Omeprazole 20mg once daily  for GERD."
+    }
+  ]
+}

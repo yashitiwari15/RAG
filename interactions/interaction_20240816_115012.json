@@ -1,0 +1,87 @@
+{
+  "timestamp": "2024-08-16T11:50:12.014393",
+  "question": "who is sara h johnson ",
+  "answer": "{\n  \"highlight\": \"\u2022 Name: Sarah Johnson\",\n  \"filename\": \"medical record 01.pdf\",\n  \"page_number\": 1,\n  \"ans\": \"Sarah Johnson is a patient with severe headaches and dizziness, born on June 22, 1975, and is a teacher.\"\n}",
+  "context_metadata": [
+    {
+      "pdf_name": "medical record 01.pdf",
+      "chunk": "Medical History Report  \nPatient Information:  \n\u2022 Name: Sarah Johnson  \n\u2022 Date of Birth:  June 22, 1975  \n\u2022 Gender: Female  \n\u2022 Marital Status:  Single  \n\u2022 Occupation:  Teacher  \n\u2022 Primary Care Physician:  Dr. Michael Brown  \nChief Complaint:  \n\u2022 Severe headaches and dizziness for the past month. History of Present Illness:  \n\u2022 Onset: Symptoms began approximately 30 days ago. \u2022 Duration:  Symptoms occur daily, lasting several hours. \u2022 Character:  The headache is described as throbbing, primarily located on the right side \nof the head, often accompanied by dizziness and nausea. \u2022 Associated Symptoms:  Light sensitivity, occasional vomiting, and blurred vision.",
+      "page_number": 1,
+      "patient_name": "Sarah Johnson",
+      "chunk_index": 0,
+      "hierarchical_level": 1
+    },
+    {
+      "pdf_name": "msr1.pdf",
+      "chunk": "When Carl did not regain custody of his daughter  after the completion of the program, he \nbegan using drugs and alcohol  again and lived outside. He did not receive treatment again until \n2016. Since March 2016, Carl has been treated in the Emergency Department at Green General  \nHospital  and Johnson Crisis Stabilization Program  multipl e times for suicidal thoughts and self -\nharm.",
+      "page_number": 6,
+      "patient_name": "Carl John Smith   \nDOB",
+      "chunk_index": 37,
+      "hierarchical_level": 1
+    },
+    {
+      "pdf_name": "msr1.pdf",
+      "chunk": "This time, the couple was able to bring their daughter home together, but Child Protective Services (CPS ) became involved shortly after she was born. In 2014, Carl\u2019s \ngirlfriend left the state, leaving  him and their daughter. CPS removed the baby and Carl\u2019s \nbrother , Greg , adopted her. Currently, Carl is not permitted to communicate with his brother or \nbiological daughter. He expresses extreme sadness and frustration related to losing his \ndaughter but admits that he was not able to provide a safe or stable life for her.",
+      "page_number": 2,
+      "patient_name": "Carl John Smith   \nDOB",
+      "chunk_index": 11,
+      "hierarchical_level": 1
+    },
+    {
+      "pdf_name": "msr1.pdf",
+      "chunk": "Summary:  \nMr. Carl Smith  is a 31 -year -old, chronically homeless male with a long history of severe and \npersistent mental illness. Unfortunately, Mr. Smith  experienced physical and ps ychological \nabuse from his father, neglect from his mother, and did not receive  effective  intervention from \nthe schools or state. He was raised in a crack -house, and learned to cope with his extreme \nemotions by using the drugs and alcohol that ultimately took his parents\u2019 lives. Carl has tried \nand is still trying to get his life on track, and create a positive relationship with his young \ndaughter.",
+      "page_number": 8,
+      "patient_name": "Carl John Smith   \nDOB",
+      "chunk_index": 51,
+      "hierarchical_level": 1
+    },
+    {
+      "pdf_name": "msr1.pdf",
+      "chunk": "experience angry outbursts. A clinical assessme nt from The Center for Recovery, dated \n1/23/2012, states \u201cMember is verbally and physically aggressive. M ember h as significant \nproblems w/ social interaction. Significant lack of social supports, impaired judgement.\u201d Despite \nattending 90% of his scheduled treatment meetings and maintain ing drug -free throughout the \nentirety of his treatment at Center for Recovery, Carl continued to experience debilitating \nsymptoms. After his father died in 2015, Carl became involved with drugs again for a brief period.",
+      "page_number": 4,
+      "patient_name": "Carl John Smith   \nDOB",
+      "chunk_index": 24,
+      "hierarchical_level": 1
+    },
+    {
+      "pdf_name": "msr1.pdf",
+      "chunk": "He says \nthat losing custody of his daughter and the death of his father, which he takes responsibility for, had a strong impact on his mental stability. He was using alcohol and heroin to manage his symptoms . After a  heavy  episode of heroin and alcohol use, Carl often becomes suicidal and \nself-harms. He has been  seen in the emergency room at Green General Hospital and transferred \nto Johnson Crisis Stabilization Program multiple  times since 2015. During my time working with \nthis applicant, I witnessed a relapse in his drug use .",
+      "page_number": 4,
+      "patient_name": "Carl John Smith   \nDOB",
+      "chunk_index": 25,
+      "hierarchical_level": 1
+    },
+    {
+      "pdf_name": "msr1.pdf",
+      "chunk": "His \nmother passed away, and he used  drugs to cope with his feelings of guilt and abandonment. He \ndid not reengage in treatment until being ordered to attend Center for Recovery by Child \nProtective S ervices in 2012. During this time, Carl engaged in intensive outpatient treatment \nand substance use group counseling from January 2012- September 2012. Despite regular \nattendance  and commitment to treatment, he still experienced overwhelming sadness at the \nloss of his daughter. A discharge statement dated 9/11/2012 states Carl made \u201cmoderate \nprogress\u201d in treatment, and recorded a diagnosis of Major Depressive Disorder, Recurrent.",
+      "page_number": 5,
+      "patient_name": "Carl John Smith   \nDOB",
+      "chunk_index": 36,
+      "hierarchical_level": 1
+    },
+    {
+      "pdf_name": "msr1.pdf",
+      "chunk": "When I get \nstresse d out, I immediately shut down.\u201d  \n Personal History:  Mr. Smith  is the youngest of three children, and  his parent s divorced when he was two. Carl \nstates \u201cThey hated each other!\u201d Carl and his older brother, Greg, lived with their mother for  the \nthree years  after their parents\u2019 divorce . He says things changed when his mom had a mental \nbreakdown: \u201cAt some point she went into a mental hospital because she was suicidal.",
+      "page_number": 1,
+      "patient_name": "Carl John Smith   \nDOB",
+      "chunk_index": 2,
+      "hierarchical_level": 1
+    },
+    {
+      "pdf_name": "msr1.pdf",
+      "chunk": "He is engaged in mental health treatment, case management, and housing services. Despite these interventions, he still struggles to meet his most basic needs. At this time, Carl  \ncontinues to experience frequent suicidal thoughts, resulting in self- harm behaviors, excessive \ndrinking, and dangerous decisions. He has never been able to maintain substantial gainful \nemp loyment. If you have any questions please feel free to  contact this writer a t 123- 456- 7890  or his treating \nPsychiatrist, Dr. Smith  at 234-567- 8910 \n \nSincerely,  \n \nJennifer Phillips, MSW  \n \nJennifer Phillips, MSW  \nSOAR Specialist  \nLocal Housing Service Agency",
+      "page_number": 8,
+      "patient_name": "Carl John Smith   \nDOB",
+      "chunk_index": 52,
+      "hierarchical_level": 1
+    },
+    {
+      "pdf_name": "msr1.pdf",
+      "chunk": "Carl describes the time with his mot her as extremely traumatic. He said they bounced around \n\u201ccrack houses\u201d until he was 19. He states , \u201cMy mom smoked crack and drank a lot.\u201d Although \nhe says , \u201cit\u2019s hard remembering,\u201d Carl does recall that his mother had many hospitalizations \nduring the time he lived with her.",
+      "page_number": 1,
+      "patient_name": "Carl John Smith   \nDOB",
+      "chunk_index": 4,
+      "hierarchical_level": 1
+    }
+  ]
+}

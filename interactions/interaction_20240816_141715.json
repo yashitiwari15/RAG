@@ -1,0 +1,107 @@
+{
+  "timestamp": "2024-08-16T14:17:15.619918",
+  "question": "ava cater work history",
+  "answer": "{\n  \"highlight\": \"Ava worked for St. Eliza\u2019s hospital but quit after only a week due to \u201cpersonal situations.\u201d\",\n  \"filename\": \"msr2.pdf\",\n  \"page_number\": 2,\n  \"ans\": \"Ava Carter worked for St. Eliza's hospital but quit after only a week due to personal situations.\"\n}",
+  "context_metadata": [
+    {
+      "pdf_name": "msr2.pdf",
+      "chunk": "She would isolate herself \nfrom people and not go in to work. According to case notes from The Real  Recovery Network in July of 2002, Ava  worked for St. \nEliza\u2019s hospital but quit after only a week due to \u201cpersonal situations.\u201d",
+      "page_number": 2,
+      "patient_name": null,
+      "chunk_index": 12,
+      "hierarchical_level": 1,
+      "cluster_path": null,
+      "summary": null
+    },
+    {
+      "pdf_name": "msr2.pdf",
+      "chunk": "She stated that the impetus for \nher use was an argument bet ween her and her sister.\u201d  \n According to The Real  Recovery Network\u2019s progress notes from October 2002, Ms. Carter  was \nasked to leave the program  due to non- compliance with regulations . She refused to move \nforward into a treatment program because she did not \u201cget along with the staff .\u201d  It was noted \nthat at that time \u201c Ava\u2019s demeanor was despondent and hopeless.",
+      "page_number": 5,
+      "patient_name": null,
+      "chunk_index": 29,
+      "hierarchical_level": 1,
+      "cluster_path": null,
+      "summary": null
+    },
+    {
+      "pdf_name": "msr2.pdf",
+      "chunk": "The Real  Recovery Network reported that Ms. Carter  would fail to take her depression \nmedication and would resort to drug use when a problem arose that made her feel severely depressed . The September 2002 Real  Recovery Network progress notes stated, \u201cAva  had \ncomplaints of severe depression today. She again questioned if she should take her prescribed medications . This writer informed Ava of the possible symptomology she may experience \nwithout the psychotropics . Ava  states she used crack on 9/10/02.",
+      "page_number": 5,
+      "patient_name": null,
+      "chunk_index": 28,
+      "hierarchical_level": 1,
+      "cluster_path": null,
+      "summary": null
+    },
+    {
+      "pdf_name": "msr2.pdf",
+      "chunk": "1 January 17, 2023 \n \n \nMs. An drea Walker  \nDisability Determination  Services  \nFax: 555- 555-2635 \nRe: Ava  Carter \n         SSN: 999- 99-9999 \nDOB: 11/07/1960 \n \nTo Whom It May Concern:  \n \nMs. Ava  Carter  is a 47 -year-old, single, woman  who has a history of bipolar disorder with major \ndepression. Ms. Carter is an average sized (5\u20198\u201d) woman of medium build. Ms. Carter has brown \neyes and short black hair with a streak of gray . We first met Ms. Carter where she was sleeping under a bridge.",
+      "page_number": 1,
+      "patient_name": null,
+      "chunk_index": 0,
+      "hierarchical_level": 1,
+      "cluster_path": "cluster_0",
+      "summary": "Ava Carter, a 47-year-old woman, has a long-standing history of bipolar disorder, major depression, and substance abuse. She has faced significant challenges, including homelessness and chronic knee pain from a past injury. Ms. Carter has struggled with alcohol, marijuana, and crack cocaine as coping mechanisms for her mental health issues. Despite multiple treatment attempts, she has difficulty maintaining sobriety and managing her mental health. Her psychiatric evaluations show symptoms like racing thoughts, severe depression, and anxiety, and she has had issues with medication compliance, particularly during substance use."
+    },
+    {
+      "pdf_name": "msr2.pdf",
+      "chunk": "Ms. Carter lived on the street when \nher time at the Homeless Center ran out and she was unable to find shelter. Ms. Carter  remains \nhomeless . Educational History  \n Ms. Carter left school in the 9\nth grade when she ran away from her father\u2019s house. When in \nschool, she attended special education classes and would get tutoring in some of her subjects . She stru ggled a lot with math and didn\u2019t like that subject in school. She did enjoy focusing on \nEnglish and Grammar .",
+      "page_number": 2,
+      "patient_name": null,
+      "chunk_index": 9,
+      "hierarchical_level": 1,
+      "cluster_path": null,
+      "summary": null
+    },
+    {
+      "pdf_name": "msr2.pdf",
+      "chunk": "3 Ms. Carter has not been able to maintain full -time work because she is unable to learn and \nremember the new tasks of the job . The last  position she held was at Mary \u2019s Restaurant in \nMobile  in January of 2003. She was fired after a couple of weeks because she was unable to \nperform her duties . She could not remember the abbreviations that were required for the job. Physical Health  \n Ms. Carter has been hospitalized a few times for physical health reasons.",
+      "page_number": 3,
+      "patient_name": null,
+      "chunk_index": 13,
+      "hierarchical_level": 1,
+      "cluster_path": null,
+      "summary": null
+    },
+    {
+      "pdf_name": "msr2.pdf",
+      "chunk": "She reports a number of fast -food jobs, such as \nMcDonalds . She would cook the fries or clean the dining room . She would occasionally be asked \nto run the register, but would quickly be removed from those duties, as she would make too \nmany errors . She reports that they would often take money from her check for those errors . Ms. \nCarter  would often lose her jobs because of her depression. She would not be able to get out of \nbed and go in to work and she would be fired for no- call, no- show .",
+      "page_number": 2,
+      "patient_name": null,
+      "chunk_index": 11,
+      "hierarchical_level": 1,
+      "cluster_path": null,
+      "summary": null
+    },
+    {
+      "pdf_name": "msr2.pdf",
+      "chunk": "Ms. Carter reported a lot of behavior problems in school and pointed out \nthat the first time she was suspended from school was when she was in kin dergarten . Ms. Carter \nreceived her GED in 1991 while serving time in the Be lls Hanford Correctional Facility in New \nJersey . Employment History  \n Ms. Carter has never been able to keep steady full -time employment. Throughout her life she has \nheld a number  of different odd jobs . She began working when she was 17 years old, performing \nCNA (Certified Nursing Assistant) work .",
+      "page_number": 2,
+      "patient_name": null,
+      "chunk_index": 10,
+      "hierarchical_level": 1,
+      "cluster_path": null,
+      "summary": null
+    },
+    {
+      "pdf_name": "msr2.pdf",
+      "chunk": "Ms. Carter \u2019s dis charge \nsummary from October 2, 2002, recommends that she be placed in a Congregate Care Level II facility (highly structured environment with 24/7 staff supervision), which indicates her inability to care for herself independently .",
+      "page_number": 5,
+      "patient_name": null,
+      "chunk_index": 31,
+      "hierarchical_level": 1,
+      "cluster_path": null,
+      "summary": null
+    },
+    {
+      "pdf_name": "msr2.pdf",
+      "chunk": "Ms. Carter wants to comply with treatment protocol, but due to the \nseverity of her mental illness is unable to understand, remember or apply information. Ms. Carter\u2019s thoughts are sometimes scattered because she often does not understand how to follow simple and routine instructions . She often repeats questions that she has just asked . She \nloses focus and does not seem to accept or remember answers to quest ions. When she was \nmaking notes of her treatment history, she wrote all over the sheet of paper in no particular order or spatial reasoning.",
+      "page_number": 7,
+      "patient_name": null,
+      "chunk_index": 43,
+      "hierarchical_level": 1,
+      "cluster_path": null,
+      "summary": null
+    }
+  ]
+}

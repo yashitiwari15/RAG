@@ -1,0 +1,57 @@
+{
+  "timestamp": "2024-08-25T16:08:59.784680",
+  "question": "What is the rotation speed",
+  "answer": "{\n  \"highlight\": [\n    {\n      \"text\": \"Speed of rotation[RPM] revolutions per minute\",\n      \"page_number\": 34,\n      \"filename\": \"manual2a.pdf\"\n    }\n  ],\n  \"ans\": \"The rotation speed is measured in revolutions per minute (RPM).\"\n}",
+  "context_metadata": [
+    {
+      "pdf_name": "manual2a.pdf",
+      "chunk_index": 270,
+      "page_number": 187,
+      "patient_name": null,
+      "hierarchical_level": 0,
+      "cluster_id": null,
+      "summary_text": null,
+      "original_text": "DA 40 AFM Performance\nDoc. # 6.01.01-E Rev. 8 01-Dec-2010 Page 5 - 175.3.9  CRUISING (TRUE AIRSPEED TAS)Diagram to establish true airspeed (TAS) at a given power setting. Example: Pressure altitude . . . . . . . . . . . . .5000 ftTemperature . . . . . . . . . . . . . . . . 15 (C (59 \u00b0F)Power setting . . . . . . . . . . . . . . . 55 %Result: True Airspeed (TAS)..........118 ktsCAUTIONIn case of operation without wheel fairings the cruising speedreduces by approximately 5 %."
+    },
+    {
+      "pdf_name": "manual2a.pdf",
+      "chunk_index": 24,
+      "page_number": 23,
+      "patient_name": null,
+      "hierarchical_level": 0,
+      "cluster_id": null,
+      "summary_text": null,
+      "original_text": "DA 40 AFM General\nDoc. # 6.01.01-E Rev. 9%31-Jan-2014%Page 1 - 7Vertical TailArea : appr. 1.60 m\u00b2 appr. 17.2 sq.ft.Rudder area : appr. 0.47 m\u00b2 appr. 5.1 sq.ft.Landing GearTrack : appr. 2.97 m appr. 9 ft 9 inWheelbase : appr. 1.68 m appr. 5 ft 6 inNose wheel : 5.00-5; 6 PR, 120 mphMain wheel : (a) 6.00-6; 6 PR, 120 mph in combination with any      MLG strut(b) 6.00-6; 8 PR, 120 mph in combination with any%MLG strut%(c) 15 x 6.0-6; 6 PR, 160 mph%(O\u00c4M 40-124; only in combination with the %\u201cthin\u201d/\u201d18 mm\u201d [M\u00c4M 40-123] or the \u201ctall\u201d%[O\u00c4M 40-283] MLG strut)%"
+    },
+    {
+      "pdf_name": "manual2a.pdf",
+      "chunk_index": 62,
+      "page_number": 55,
+      "patient_name": null,
+      "hierarchical_level": 0,
+      "cluster_id": null,
+      "summary_text": null,
+      "original_text": "DA 40 AFMOperatingLimitations\nDoc. # 6.01.01-E Rev. 8 01-Dec-2010EASAapprovedPage 2 - 15b) Utility Category:1) All normal flight maneuvers;2) Stalling (with the exception of dynamic stalling); and3) Lazy Eights, Chandelles, as well as steep turns and similar maneuvers, inwhich an angle of bank of not more than 90\u00b0 is attained.CAUTIONAerobatics, spinning, and flight maneuvers with more than90\u00b0 of bank are not permitted in the Utility Category.CAUTIONThe accuracy of the attitude gyro (artificial horizon) and thedirectional gyro is affected by the maneuvers approved underitem 3 if the bank angle exceeds 60\u00b0. Such maneuvers maytherefore only be flown when the above mentionedinstruments are not required for the present kind of operation."
+    },
+    {
+      "pdf_name": "manual2a.pdf",
+      "chunk_index": 37,
+      "page_number": 34,
+      "patient_name": null,
+      "hierarchical_level": 0,
+      "cluster_id": null,
+      "summary_text": null,
+      "original_text": "General DA 40 AFM\nPage 1 - 18 Rev. 8 01-Dec-2010 Doc. # 6.01.01-E1.6 UNITS OF MEASUREMENT1.6.1  CONVERSION FACTORSDimension SI-Units US Units ConversionLength [mm] millimeters[m] meters[km] kilometers[in] inches[ft] feet[NM] nauticalmiles[mm] / 25.4 = [in][m] / 0.3048 = [ft][km] / 1.852 = [NM]Volume [l] liters [US gal] US gallons[qts] US quarts[l] / 3.7854 = [US gal][l] / 0.9464 = [qts]Speed [km/h] kilometersper hour[m/s] meters persecond[kts] knots[mph] miles perhour[fpm] feet perminute[km/h] / 1.852 = [kts][km/h] / 1.609 = [mph][m/s] x 196.85 = [fpm]Speed ofrotation[RPM] revolutions per minute--Mass [kg] kilograms [lb] pounds [kg] x 2.2046 = [lb]Force,weight[N] newtons [lbf] pounds force [N] x 0.2248 = [lbf]Pressure [hPa] hecto-pascals[mbar] millibars[bar] bars[inHg] inches ofmercury[psi] pounds persquare inch[hPa] = [mbar][hPa] / 33.86 = [inHg][bar] x 14.504 = [psi]Temperature [\u00b0C] degreesCelsius[\u00b0F] degreesFahrenheit[\u00b0C]x1.8 + 32 = [\u00b0F]([\u00b0F] - 32)/1.8 = [\u00b0C]"
+    },
+    {
+      "pdf_name": "manual2a.pdf",
+      "chunk_index": 61,
+      "page_number": 54,
+      "patient_name": null,
+      "hierarchical_level": 0,
+      "cluster_id": null,
+      "summary_text": null,
+      "original_text": "OperatingLimitationsDA 40 AFM\nPage 2 - 14 Rev. 8 01-Dec-2010EASAapprovedDoc. # 6.01.01-E2.9 APPROVED MANEUVERSThe airplane is certified in the Normal Category and in the Utility Category in accordancewith JAR-23.Approved Maneuversa) Normal Category:1) All normal flight maneuvers;2) Stalling (with the exception of dynamic stalling); and3) Lazy Eights, Chandelles, as well as steep turns and similar maneuvers, inwhich an angle of bank of not more than 60\u00b0 is attained.CAUTIONAerobatics, spinning, and flight maneuvers with more than60\u00b0 of bank are not permitted in the Normal Category."
+    }
+  ]
+}

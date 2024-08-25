@@ -1,0 +1,56 @@
+{
+  "timestamp": "2024-08-24T12:15:36.380221",
+  "question": "From John Doe's report, pls give me important event across the time",
+  "answer": "{\n  \"highlight\": [\n    \"February 5, 2023: John Doe consulted Dr. Emily Harper for severe abdominal pain and was diagnosed with suspected gastritis without further investigations.\",\n    \"February 28, 2023: He returned with worsening symptoms and was referred for an abdominal ultrasound, scheduled for March 15.\",\n    \"March 15, 2023: The ultrasound was delayed due to scheduling issues.\",\n    \"April 5, 2023: Ultrasound confirmed a large mass in the abdomen. Referral to gastroenterology was delayed due to a communication error.\",\n    \"April 25, 2023: Gastroenterology consultation: Immediate surgery recommended. Surgery scheduled for May 2, 2023.\",\n    \"May 2, 2023: Surgical removal of mass performed, patient suffered post-surgical infection due to improper handling of sterile equipment during the operation.\",\n    \"May 15, 2023: Patient developed sepsis, transferred to ICU. Treated with antibiotics.\"\n  ],\n  \"filename\": \"report1.pdf\",\n  \"page_number\": [1, 2, 4],\n  \"ans\": \"The important events in John Doe's medical timeline include an initial consultation on February 5, 2023, where he was diagnosed with suspected gastritis. He returned on February 28 with worsening symptoms, leading to a delayed ultrasound scheduled for March 15. The ultrasound on April 5 revealed a large abdominal mass, but a referral to gastroenterology was delayed until April 25. Surgery was performed on May 2, but complications arose, including a post-surgical infection and subsequent sepsis by May 15, requiring ICU treatment.\"\n}",
+  "context_metadata": [
+    {
+      "pdf_name": "report1.pdf",
+      "chunk_index": 0,
+      "page_number": 1,
+      "patient_name": "John Doe  \nDOB",
+      "hierarchical_level": 1,
+      "cluster_id": 1,
+      "summary_text": "The Clinical Negligence Report details the case of John Doe, who experienced alleged medical negligence during his treatment at St. Mary's Hospital from February to May 2023. The report, authored by Dr. Sarah Thompson, assesses the standard of care provided and its contribution to the patient's injuries.\n\nKey events include:\n\n- **February 5, 2023**: John Doe consulted Dr. Emily Harper for severe abdominal pain and was diagnosed with suspected gastritis without further investigations.\n- **February 28, 2023**: He returned with worsening symptoms and was referred for an abdominal ultrasound, scheduled for March 15.\n- **March 15, 2023**: The ultrasound was delayed due to scheduling issues, and the patient was not"
+    },
+    {
+      "pdf_name": "report1.pdf",
+      "chunk_index": 1,
+      "page_number": 2,
+      "patient_name": "John Doe  \nDOB",
+      "hierarchical_level": 0,
+      "cluster_id": null,
+      "summary_text": null,
+      "original_text": "Date  Event Description  \nApril 5, \n2023  Ultrasound confirmed a large mass in the abdomen. Referral to \ngastroenterology was delayed due to a communication error. April 25, \n2023  Gastroenterology consultation: Immediate surgery recommended. Surgery \nscheduled for May 2, 2023. May 2, 2023  Surgical removal of mass performed, patient suffered post -surgical infection \ndue to improper handling of sterile equipment during the operation. May 15, \n2023  Patient developed sepsis, transferred to ICU. Treated with antibiotics. Delayed recovery due to post -operative infection and delayed diagnosis. 3. Detailed Description of Events  \nEvent 1: Initial Consultation (February 5, 2023)  \nThe patient first presented to Dr.  Emily Harper with complaints of severe and persistent \nabdominal pain. Dr. Harper, without performing any diagnostic tests, diagnosed the patient \nwith gastritis and prescribed a course of proton pump inhibitors (PPIs). No further \ninvestigations, such as bl ood tests or imaging, were recommended. This was the first opportunity to identify the underlying issue, which later proved to be a \nlarge abdominal mass. Event 2: Persistent Symptoms and Referral (February 28, 2023)  \nJohn Doe returned to the clinic on February 28, 2023, with no improvement in symptoms."
+    },
+    {
+      "pdf_name": "report1.pdf",
+      "chunk_index": 0,
+      "page_number": 1,
+      "patient_name": "John Doe  \nDOB",
+      "hierarchical_level": 0,
+      "cluster_id": null,
+      "summary_text": null,
+      "original_text": "Clinical Negligence Report  \nPatient Information  \nName: John Doe  \nDOB: May 3, 1985  \nMRN: 123456789  \nAddress: 123 Elm Street, City, State, ZIP  \n \nDate of Report:  August 21, 2024  \nReport Author:  Dr. Sarah Thompson, MD  \nSpecialty:  Medical Legal Consultant  \n \nTable of Contents  \n1. Introduction  \n2. Summary of Events and Timeline  \n3. Detailed Description of Events  \n4. Breach of Duty  \n5. Causation  \n6. Conclusion  \n \n1. Introduction  \nThis report outlines the alleged incidents of clinical negligence that occurred during the \nmedical care of John Doe from February 2023 to May 2023 at St. Mary's Hospital. The \npurpose of this report is to assess whether the standard of care provided was appropriate and \nif any negligence contributed to the patient\u2019s injuries and complications. 2. Summary of Events and Timeline  \nDate  Event Description  \nFebruary 5, \n2023  Initial consultation with Dr.  Emily Harper (General Practitioner), complaints \nof severe abdominal pain. Diagnosis: Suspected gastritis. Prescribed \nmedication without further investigations. February \n28, 2023  Patient returned with persistent symptoms, worsened abdominal pain. Referred for an abdominal ultrasound scheduled for March 15, 2023. March 15, \n2023  Ultrasound delayed due to scheduling issues. No rescheduling until the patient \ncalled back on April 1, 2023, requesting a follow -up."
+    },
+    {
+      "pdf_name": "report1.pdf",
+      "chunk_index": 2,
+      "page_number": 2,
+      "patient_name": "John Doe  \nDOB",
+      "hierarchical_level": 0,
+      "cluster_id": null,
+      "summary_text": null,
+      "original_text": "Despite the worsening of his abdominal pain, Dr. Harper referred the patient for an \nultrasound, scheduled nearly three weeks later. This delay, coupled with the absence of \nimmediate imaging or blood work, contributed to the worsening of the condition. Event 3: Ultrasound Delays (March 15, 2023)  \nThe ultrasound appointment, scheduled for March 15, 2023, was postponed due to hospital \nscheduling issues. The patient was not informed of the delay until he reached out on April 1, \n2023, when a new ultrasound appointment was scheduled. This postponement c ontributed to \na delay in the diagnosis of the abdominal mass. Event 4: Diagnosis and Referral to Gastroenterology (April 5, 2023)  \nAn ultrasound finally conducted on April 5, 2023, revealed a large abdominal mass. Despite \nthe urgency, a referral to a gastroenterologist was not made until April 25, 2023, after \nmultiple administrative communication errors within the hospital. By this time, the patient\u2019s \ncond ition had deteriorated further, causing severe pain and other complications. Event 5: Surgery and Post -Surgical Infection (May 2, 2023)"
+    },
+    {
+      "pdf_name": "report1.pdf",
+      "chunk_index": 5,
+      "page_number": 4,
+      "patient_name": "John Doe  \nDOB",
+      "hierarchical_level": 0,
+      "cluster_id": null,
+      "summary_text": null,
+      "original_text": "complications. Early detection, timely diagnosis, and appropriate surgical procedures could \nhave minimized the harm suffered by the patient. It is recommended that a thorough review of hospital procedures be conducted, particularly in \nareas related to diagnostics, surgery, and post -operative care, to prevent similar incidents in \nthe future. Report Prepared By:  \nDr. Sarah Thompson, MD  \nMedical Legal Consultant  \nSt. Mary\u2019s Hospital  \n \nThis sample report spans over five pages and includes a structured description of clinical \nevents with corresponding dates, highlighting areas of potential negligence."
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "timestamp": "2024-08-17T12:32:11.252498",
+  "question": "who is ava carter",
+  "answer": "```json\n{\n  \"highlight\": \"Ms. Ava Carter is a 47-year-old, single, woman who has a history of bipolar disorder with major depression.\",\n  \"filename\": \"msr2.pdf\",\n  \"page_number\": 1,\n  \"ans\": \"Ava Carter is a 47-year-old woman with a history of bipolar disorder and major depression.\"\n}\n```",
+  "context_metadata": [
+    {
+      "pdf_name": "msr2.pdf",
+      "chunk": "She stated that the impetus for \nher use was an argument bet ween her and her sister.\u201d  \n According to The Real  Recovery Network\u2019s progress notes from October 2002, Ms. Carter  was \nasked to leave the program  due to non- compliance with regulations . She refused to move \nforward into a treatment program because she did not \u201cget along with the staff .\u201d  It was noted \nthat at that time \u201c Ava\u2019s demeanor was despondent and hopeless.",
+      "page_number": 5,
+      "patient_name": null,
+      "chunk_index": 29,
+      "hierarchical_level": 1,
+      "cluster_path": null,
+      "summary": null
+    },
+    {
+      "pdf_name": "msr2.pdf",
+      "chunk": "1 January 17, 2023 \n \n \nMs. An drea Walker  \nDisability Determination  Services  \nFax: 555- 555-2635 \nRe: Ava  Carter \n         SSN: 999- 99-9999 \nDOB: 11/07/1960 \n \nTo Whom It May Concern:  \n \nMs. Ava  Carter  is a 47 -year-old, single, woman  who has a history of bipolar disorder with major \ndepression. Ms. Carter is an average sized (5\u20198\u201d) woman of medium build. Ms. Carter has brown \neyes and short black hair with a streak of gray . We first met Ms. Carter where she was sleeping under a bridge.",
+      "page_number": 1,
+      "patient_name": null,
+      "chunk_index": 0,
+      "hierarchical_level": 1,
+      "cluster_path": "cluster_0",
+      "summary": "Ava Carter, a 47-year-old woman, has a long-standing history of bipolar disorder, major depression, and substance abuse. She has faced significant challenges, including homelessness and chronic knee pain from a past injury. Ms. Carter has struggled with alcohol, marijuana, and crack cocaine as coping mechanisms for her mental health issues. Despite multiple treatment attempts, she has difficulty maintaining sobriety and managing her mental health. Her psychiatric evaluations show symptoms like racing thoughts, severe depression, and anxiety, and she has had issues with medication compliance, particularly during substance use."
+    },
+    {
+      "pdf_name": "msr2.pdf",
+      "chunk": "The Real  Recovery Network reported that Ms. Carter  would fail to take her depression \nmedication and would resort to drug use when a problem arose that made her feel severely depressed . The September 2002 Real  Recovery Network progress notes stated, \u201cAva  had \ncomplaints of severe depression today. She again questioned if she should take her prescribed medications . This writer informed Ava of the possible symptomology she may experience \nwithout the psychotropics . Ava  states she used crack on 9/10/02.",
+      "page_number": 5,
+      "patient_name": null,
+      "chunk_index": 28,
+      "hierarchical_level": 1,
+      "cluster_path": null,
+      "summary": null
+    },
+    {
+      "pdf_name": "msr2.pdf",
+      "chunk": "She complained of the awful \nsmell of urine and the fact that a \u201c drug addict \u201d had stolen her psychiatric medications the night \nbefore . She wanted to come in off the street. Ms. Carter  was very depressed and did not ha ve the \nenergy to change her clothes or go through her normal grooming routine . Personal History  \n \nMs. Carter was born and raised in Buffalo, NY . Her mother and stepfather raised her until they \ndivorced when she was 11 or 12 years old.",
+      "page_number": 1,
+      "patient_name": null,
+      "chunk_index": 1,
+      "hierarchical_level": 1,
+      "cluster_path": "cluster_1",
+      "summary": "Ms. Carter is a homeless woman facing depression and a history of trauma from her abusive childhood in Buffalo, NY. After enduring physical and emotional abuse from her parents, she ran away multiple times. At 14, she moved in with her abusive biological father and subsequently became a mother at 17, only to lose custody of her son following a traumatic rape. Her mental health challenges have hindered her ability to maintain stable employment and housing, leading to years of homelessness after losing her Section 8 housing in 2006."
+    },
+    {
+      "pdf_name": "msr2.pdf",
+      "chunk": "She would isolate herself \nfrom people and not go in to work. According to case notes from The Real  Recovery Network in July of 2002, Ava  worked for St. \nEliza\u2019s hospital but quit after only a week due to \u201cpersonal situations.\u201d",
+      "page_number": 2,
+      "patient_name": null,
+      "chunk_index": 12,
+      "hierarchical_level": 1,
+      "cluster_path": null,
+      "summary": null
+    },
+    {
+      "pdf_name": "msr2.pdf",
+      "chunk": "She explained that this was probably the \nreason for the anger she took out on her. She reported that her mother was in and out of the \nhospital with a \u201cnervous condition.\u201d  She reflected that it was likely a \u201cnervous breakdown\u201d that \nher mother had when she hurt her so badly when she was 5 years old. Ms. Carter had her first and only chil d when she was 17 years old. She described having her son \n\u201cout-of wedlock\u201d while she was living \u201cpillar -to-post.\u201d  She does not know who his father is .",
+      "page_number": 1,
+      "patient_name": null,
+      "chunk_index": 4,
+      "hierarchical_level": 1,
+      "cluster_path": null,
+      "summary": null
+    },
+    {
+      "pdf_name": "msr2.pdf",
+      "chunk": "Ms. Carter is the oldest of two half- sisters each 5 -\nyears apart . Ms. Carter has had a very tenuous relationship with her mom since she was very \nyoung. Her mother was physically and emotionally abusive . Ms. Carter referred to scars on her \narms as she recounted a part icular episode of abuse from when she was 5 years old . She \nexplained that her mother would take her anger out on her because she looked like her biological \nfather, whom her mother harbored much contempt for .",
+      "page_number": 1,
+      "patient_name": null,
+      "chunk_index": 2,
+      "hierarchical_level": 1,
+      "cluster_path": null,
+      "summary": null
+    },
+    {
+      "pdf_name": "msr2.pdf",
+      "chunk": "Ms. Carter does not want \nto be told what to do and may not take instruction from employers well . Ms. Carter tends to run \naway from stressful situations . She has a strong flight response and cannot tolerate challenging \nor difficult situations . When Ms. Carter is depressed,  she does not attend to her grooming. She does not change her \nclothes or keep her hair like she says she used to. During meetings with this writer Ms. Carter appears disheveled, with wrinkled and unclean clothing and matted hair.",
+      "page_number": 8,
+      "patient_name": null,
+      "chunk_index": 50,
+      "hierarchical_level": 1,
+      "cluster_path": null,
+      "summary": null
+    },
+    {
+      "pdf_name": "msr2.pdf",
+      "chunk": "Ms. Carter  would often run -away from \nhome to get  away from the abusive environment. When Ms. Carter  was 14 years old her mother \nsent her to Ohio to live with her biological father . Her mother cited behavior problems as her \nreasons for sending her away. Ms. Carter \u2019s father was a compulsive gambler and p hysically \nabused Ms. Carter . When she was 14, her father asked her for sex and so she ran away for the \nfinal time. Ms. Carter reports that her mom was very depressed .",
+      "page_number": 1,
+      "patient_name": null,
+      "chunk_index": 3,
+      "hierarchical_level": 1,
+      "cluster_path": null,
+      "summary": null
+    },
+    {
+      "pdf_name": "msr2.pdf",
+      "chunk": "Ms. Carter received  treatment at C entral  Park in New Jersey  from March 2001 to April 2001. According to her me dical discharge summary, Ms. Carter  \u201cappeared depressed and irritable with \nlabile affect \u2026. [She ] struggles to share feelings from shame surrounding use . Patient\u2019s shame \nsurrounding her current lifestyle and behaviors as well as failed relationship with her son.",
+      "page_number": 4,
+      "patient_name": null,
+      "chunk_index": 23,
+      "hierarchical_level": 1,
+      "cluster_path": null,
+      "summary": null
+    }
+  ]
+}

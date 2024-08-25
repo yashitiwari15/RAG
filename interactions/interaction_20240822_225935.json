@@ -1,0 +1,47 @@
+{
+  "timestamp": "2024-08-22T22:59:35.303690",
+  "question": "what is sarah johnson cheif complaint and who did the signature",
+  "answer": "{\n  \"highlight\": [\n    \"Chief Complaint:  \\n\\u2022 Severe headaches and dizziness for the past month.\",\n    \"Signature:  \\n\\u2022 Dr. Michael Brown, MD\"\n  ],\n  \"filename\": \"medical record 01.pdf\",\n  \"page_number\": [1, 3],\n  \"ans\": \"Sarah Johnson's chief complaint is severe headaches and dizziness that have persisted for the past month. The signature on the medical record is from Dr. Michael Brown, MD.\"\n}",
+  "context_metadata": [
+    {
+      "pdf_name": "medical record 01.pdf",
+      "chunk": "Medical History Report  \nPatient Information:  \n\u2022 Name: Sarah Johnson  \n\u2022 Date of Birth:  June 22, 1975  \n\u2022 Gender: Female  \n\u2022 Marital Status:  Single  \n\u2022 Occupation:  Teacher  \n\u2022 Primary Care Physician:  Dr. Michael Brown  \nChief Complaint:  \n\u2022 Severe headaches and dizziness for the past month. History of Present Illness:  \n\u2022 Onset: Symptoms began approximately 30 days ago. \u2022 Duration:  Symptoms occur daily, lasting several hours. \u2022 Character:  The headache is described as throbbing, primarily located on the right side \nof the head, often accompanied by dizziness and nausea. \u2022 Associated Symptoms:  Light sensitivity, occasional vomiting, and blurred vision. \u2022 Aggravating Factors:  Stress, loud noises, and bright lights. \u2022 Relieving Factors:  Resting in a dark, quiet room, over -the-counter pain relief. \u2022 Previous Episodes:  Similar episodes occurred intermittently over the past year but have \nbecome more frequent and severe. Past Medical History:  \n\u2022 Migraines:  Diagnosed in 2014, managed with lifestyle modifications and over -the-\ncounter medications. \u2022 Seasonal Allergies:  Managed with antihistamines as needed. \u2022 Surgeries:  Cholecystectomy in 2012. \u2022 Chronic Conditions:  None reported. Family History:  \n\u2022 Father: Alive, age 75 (hypertension, hyperlipidemia). \u2022 Mother: Deceased at age 68 (breast cancer). \u2022 Siblings:  One sister (age 45, history of migraines).",
+      "page_number": 1,
+      "patient_name": "Sarah Johnson",
+      "chunk_index": 0,
+      "hierarchical_level": 1
+    },
+    {
+      "pdf_name": "medical record 01.pdf",
+      "chunk": "\u2022 July 23, 2016",
+      "page_number": 4,
+      "patient_name": "Sarah Johnson",
+      "chunk_index": 6,
+      "hierarchical_level": 1
+    },
+    {
+      "pdf_name": "medical record 01.pdf",
+      "chunk": "o Discuss the importance of avoiding known headache triggers such as bright \nlights, loud noises, and certain foods. Signature:  \n\u2022 Dr. Michael Brown, MD",
+      "page_number": 3,
+      "patient_name": "Sarah Johnson",
+      "chunk_index": 5,
+      "hierarchical_level": 1
+    },
+    {
+      "pdf_name": "medical record 01.pdf",
+      "chunk": "\u2022 Alcohol:  Consumes alcohol occasionally, 1 -2 drinks per month. \u2022 Drug Use:  Denies any recreational drug use. \u2022 Exercise:  Regular yoga and walking. \u2022 Diet: Balanced diet, includes fruits, vegetables, and lean proteins. Review of Systems:  \n\u2022 General:  Reports fatigue, denies weight loss or night sweats. \u2022 Skin: No rashes or lesions. \u2022 Head, Eyes, Ears, Nose, Throat (HEENT):  Denies hearing loss, sore throat, or nasal \ncongestion. \u2022 Cardiovascular:  Denies chest pain, palpitations, or edema. \u2022 Respiratory:  Denies cough, shortness of breath, or wheezing. \u2022 Gastrointestinal:  Occasional nausea and vomiting related to headaches, denies other \ngastrointestinal symptoms. \u2022 Genitourinary:  Denies dysuria, hematuria, or frequency. \u2022 Musculoskeletal:  Denies joint pain, swelling, or stiffness. \u2022 Neurological:  Reports headaches, dizziness, and blurred vision; denies weakness, \nnumbness, or seizures. \u2022 Psychiatric:  Denies depression, anxiety, or other psychiatric conditions. Medications:  \n\u2022 Ibuprofen 400 mg:  As needed for headache relief. \u2022 Cetirizine 10 mg:  One tablet daily during allergy season. Physical Examination:  \n\u2022 Vital Signs:  \no Blood Pressure: 125/78 mmHg  \no Heart Rate: 72 bpm  \no Respiratory Rate: 18 breaths/min  \no Temperature: 98.6\u00b0F  \no Oxygen Saturation: 98% on room air  \n\u2022 General:  Alert, oriented, in mild distress due to headache. \u2022 HEENT: Normocephalic, atraumatic.",
+      "page_number": 2,
+      "patient_name": "Sarah Johnson",
+      "chunk_index": 2,
+      "hierarchical_level": 1
+    },
+    {
+      "pdf_name": "medical record 01.pdf",
+      "chunk": "Social History:  \n\u2022 Smoking:  Never smoked.",
+      "page_number": 1,
+      "patient_name": "Sarah Johnson",
+      "chunk_index": 1,
+      "hierarchical_level": 1
+    }
+  ]
+}

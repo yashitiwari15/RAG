@@ -1,0 +1,87 @@
+{
+  "timestamp": "2024-08-14T14:46:30.653187",
+  "question": "name all the persons in the given documents",
+  "answer": "{\n  \"highlight\": \"Carl John Smith   \\nDOB, Ms. Carter, Ms. An drea Walker, Ms. Ava  Carter\",\n  \"filename\": \"msr1.pdf, msr2.pdf\",\n  \"page_number\": \"1, 1, 1\",\n  \"ans\": \"Carl John Smith, Ms. Carter, Ms. An drea Walker, Ms. Ava Carter\"\n}",
+  "context_metadata": [
+    {
+      "pdf_name": "msr1.pdf",
+      "chunk": "May  5, 2023          \nName:  Carl John Smith   \nDOB:  04/18/1985 \n SSN:  999- 99-9999  \n \nDear DDS Examiner : \n   Introduction:  \nMr. Carl Smith i s a 31 -year -old man  who has been experiencing homelessness on and off for all \nhis adult life. Mr. Smith  says he is about 5 \u20195\u201d and weighs approximately 129  lbs. He presents  as \nvery thin, typically wearing a clean white undershirt and loose -fitting  khaki shorts at interviews. His brown hair is disheveled  and dirty looking , and he constantly fidgets and shakes his hand or \nknee during interviews.",
+      "page_number": 1,
+      "patient_name": "Carl John Smith   \nDOB",
+      "chunk_index": 0,
+      "hierarchical_level": 1
+    },
+    {
+      "pdf_name": "msr1.pdf",
+      "chunk": "\u201d As a result of this \nhe was involved in a lot of fighting with classmates and had trouble understanding coursework.",
+      "page_number": 1,
+      "patient_name": "Carl John Smith   \nDOB",
+      "chunk_index": 6,
+      "hierarchical_level": 1
+    },
+    {
+      "pdf_name": "msr2.pdf",
+      "chunk": "Ms. Carter wants to comply with treatment protocol, but due to the \nseverity of her mental illness is unable to understand, remember or apply information. Ms. Carter\u2019s thoughts are sometimes scattered because she often does not understand how to follow simple and routine instructions . She often repeats questions that she has just asked . She \nloses focus and does not seem to accept or remember answers to quest ions. When she was \nmaking notes of her treatment history, she wrote all over the sheet of paper in no particular order or spatial reasoning.",
+      "page_number": 7,
+      "patient_name": null,
+      "chunk_index": 43,
+      "hierarchical_level": 1
+    },
+    {
+      "pdf_name": "msr2.pdf",
+      "chunk": "Ms. Carter \nhas been homeless for the last year  and has  been unable to maintain steady relationships or \nhousing situations since she was 22 years old. Ms. Carter  has been unable to work at a \nsubstantial gainful level since 2003 due to her functional impairments. If you have any questions, please call Ms. Johnson  at 555- 555-2134 or Dr. Amber Westgate at \n555-555-2135. Sincerely,  \n  \nKaitlyn Johnson, MSW  \nSOAR Benefits  Specialist  \n  \n \nDr. Amber Westgate  \nCounty Hospital",
+      "page_number": 8,
+      "patient_name": null,
+      "chunk_index": 53,
+      "hierarchical_level": 1
+    },
+    {
+      "pdf_name": "msr2.pdf",
+      "chunk": "Ms. Carter lived on the street when \nher time at the Homeless Center ran out and she was unable to find shelter. Ms. Carter  remains \nhomeless . Educational History  \n Ms. Carter left school in the 9\nth grade when she ran away from her father\u2019s house. When in \nschool, she attended special education classes and would get tutoring in some of her subjects . She stru ggled a lot with math and didn\u2019t like that subject in school. She did enjoy focusing on \nEnglish and Grammar .",
+      "page_number": 2,
+      "patient_name": null,
+      "chunk_index": 9,
+      "hierarchical_level": 1
+    },
+    {
+      "pdf_name": "msr2.pdf",
+      "chunk": "However, we observed Ms. Carter interacting abrasively with staff at a county health \nclinic . She has been asked to leave our office nearly each appointment she attends. Ms. Carter \nwill act out verbally which creates a tense environment, always resulting in security escorting her out of the office. Concentrate, P ersist, o r Maintain P ace  \nMs. Carter struggles significantly with concentration  and persistence. She describes a short \nattention span. She has trouble focusing and is easily distracted.",
+      "page_number": 7,
+      "patient_name": null,
+      "chunk_index": 45,
+      "hierarchical_level": 1
+    },
+    {
+      "pdf_name": "msr2.pdf",
+      "chunk": "1 January 17, 2023 \n \n \nMs. An drea Walker  \nDisability Determination  Services  \nFax: 555- 555-2635 \nRe: Ava  Carter \n         SSN: 999- 99-9999 \nDOB: 11/07/1960 \n \nTo Whom It May Concern:  \n \nMs. Ava  Carter  is a 47 -year-old, single, woman  who has a history of bipolar disorder with major \ndepression. Ms. Carter is an average sized (5\u20198\u201d) woman of medium build. Ms. Carter has brown \neyes and short black hair with a streak of gray . We first met Ms. Carter where she was sleeping under a bridge.",
+      "page_number": 1,
+      "patient_name": null,
+      "chunk_index": 0,
+      "hierarchical_level": 1
+    },
+    {
+      "pdf_name": "msr2.pdf",
+      "chunk": "Ms. Carter is the oldest of two half- sisters each 5 -\nyears apart . Ms. Carter has had a very tenuous relationship with her mom since she was very \nyoung. Her mother was physically and emotionally abusive . Ms. Carter referred to scars on her \narms as she recounted a part icular episode of abuse from when she was 5 years old . She \nexplained that her mother would take her anger out on her because she looked like her biological \nfather, whom her mother harbored much contempt for .",
+      "page_number": 1,
+      "patient_name": null,
+      "chunk_index": 2,
+      "hierarchical_level": 1
+    },
+    {
+      "pdf_name": "msr2.pdf",
+      "chunk": "2 abusive and so after 5 months, she moved out of the house into an apartment with her son. It was \nin that apartment that Ms. Carter  was brutally raped . A man came into her apartment where she \nwas sitting with her son and he ld a butcher knife to her neck as he raped her in front of her son. The experience was very traumatic to Ms. Carter  and was a turning point in her life .",
+      "page_number": 2,
+      "patient_name": null,
+      "chunk_index": 6,
+      "hierarchical_level": 1
+    },
+    {
+      "pdf_name": "msr2.pdf",
+      "chunk": "Her ability to function",
+      "page_number": 7,
+      "patient_name": null,
+      "chunk_index": 48,
+      "hierarchical_level": 1
+    }
+  ]
+}

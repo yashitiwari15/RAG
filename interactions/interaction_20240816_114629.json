@@ -1,0 +1,87 @@
+{
+  "timestamp": "2024-08-16T11:46:29.978404",
+  "question": "provide a detailed physciatric history for mr.smith",
+  "answer": "```json\n{\n  \"highlight\": \"Mr. Smith has a long history of psychiatric struggles and treatment. He says he has had trouble controlling his temper and \u201cjust feeling like something was different\u201d since early childhood.\",\n  \"filename\": \"msr1.pdf\",\n  \"page_number\": 4,\n  \"ans\": \"Mr. Smith has a long history of psychiatric struggles and treatment, including feelings of anxiety since age 7 or 8, inpatient hospitalization at age 11, and ongoing issues with temper control and emotional regulation.\"\n}\n```",
+  "context_metadata": [
+    {
+      "pdf_name": "msr1.pdf",
+      "chunk": "To the best of his memory, Mr. Smith  began experiencing feelings of anxiety around \u201c7 or 8.\u201d \nHe says that he struggled in school and at home as early as he can remember and  cont ributes a \nlot of these feelings to his unstable home life. At age 11, Carl experienced his first inpatient \nhospitalization at Youth Treatment Center . He was admitted on 11/3/1997 and discharged on \n11/17/1997. Admission records state , \u201c11- year -old white mal e who was admitted to the \ninpatient unit\u2026due to loss of control.",
+      "page_number": 5,
+      "patient_name": "Carl John Smith   \nDOB",
+      "chunk_index": 31,
+      "hierarchical_level": 1
+    },
+    {
+      "pdf_name": "msr1.pdf",
+      "chunk": "He states,  \u201cI was in \na fight and he choked me out until I was unconscious, and then the dude socked me in the face.\u201d His girlfriend at the time took him to the hospital, where he was admitted for two days. Carl is unsure of his  exact  diagnosis at that time, but states that he experienced \u201ceye twitching \nfor quite a while\u201d after the fight. Psychiatric History:  \nMr. Smith  has a long history of psychiatric  struggles and treatment. He says he has had trouble \ncontrolling his temper and \u201cjust feeling like something was different\u201d since early childhood.",
+      "page_number": 4,
+      "patient_name": "Carl John Smith   \nDOB",
+      "chunk_index": 29,
+      "hierarchical_level": 1
+    },
+    {
+      "pdf_name": "msr1.pdf",
+      "chunk": "May  5, 2023          \nName:  Carl John Smith   \nDOB:  04/18/1985 \n SSN:  999- 99-9999  \n \nDear DDS Examiner : \n   Introduction:  \nMr. Carl Smith i s a 31 -year -old man  who has been experiencing homelessness on and off for all \nhis adult life. Mr. Smith  says he is about 5 \u20195\u201d and weighs approximately 129  lbs. He presents  as \nvery thin, typically wearing a clean white undershirt and loose -fitting  khaki shorts at interviews. His brown hair is disheveled  and dirty looking , and he constantly fidgets and shakes his hand or \nknee during interviews.",
+      "page_number": 1,
+      "patient_name": "Carl John Smith   \nDOB",
+      "chunk_index": 0,
+      "hierarchical_level": 1
+    },
+    {
+      "pdf_name": "msr1.pdf",
+      "chunk": "After an angry outburst that will be detailed \nlater in the report, Carl admitted that he had been using heroin and crack for the past two weeks. This writer helped connect him with his housing resource  navigator and provided \ninformation on local Narcotics Anonymous meetings. Once Carl stopped using drugs again, his guilt from the drug use  led him to become more withdrawn, and he refused to  answer phone \ncalls or meet to finalize the materials needed to s ubmit this application. Physical Health History:  Mr. Smith  struggles with chronic lower back pain that radiates to his legs.",
+      "page_number": 4,
+      "patient_name": "Carl John Smith   \nDOB",
+      "chunk_index": 26,
+      "hierarchical_level": 1
+    },
+    {
+      "pdf_name": "msr1.pdf",
+      "chunk": "He states \u201cMy doctor \nsaid I have a back like a 70-year -old. It definitely affects  me when I work. If I do any hard labor, I \ncan feel it for 5 days.\u201d These claims are confirmed with diagnoses from Dr. Smith  of Green \nPrimary Care Services. After a visit for  his back pain on June 6, 2014, he was diagnosed with \nDegenerative Disc Disease, Allergic Rhinitis,  and Lumbar Radiculopathy. Upon examination, Dr. \nSmith  concluded that Carl has an abnormal gait, his lower back experiences spasms, and he has \na decrease in flexion and lateral rotation.",
+      "page_number": 4,
+      "patient_name": "Carl John Smith   \nDOB",
+      "chunk_index": 27,
+      "hierarchical_level": 1
+    },
+    {
+      "pdf_name": "msr1.pdf",
+      "chunk": "Functional Information:  \n Understand, Remember, and Apply Information:  \nMr. Smith  admits \u201cIt\u2019s difficult for me to learn new things. Especially if there is a lot going on.\u201d \nHe says that when he worked at Burger  Restaurant, \u201cI kept forgetting to check if there were \nburgers in the broiler. Then I\u2019d ruin the whole batch.\u201d He says this was a common occurrence with most of his past work attempts. He would forget basic instructions relat ed to his job, and \nthen become  wildly angry when he was corrected.",
+      "page_number": 6,
+      "patient_name": "Carl John Smith   \nDOB",
+      "chunk_index": 41,
+      "hierarchical_level": 1
+    },
+    {
+      "pdf_name": "msr1.pdf",
+      "chunk": "Summary:  \nMr. Carl Smith  is a 31 -year -old, chronically homeless male with a long history of severe and \npersistent mental illness. Unfortunately, Mr. Smith  experienced physical and ps ychological \nabuse from his father, neglect from his mother, and did not receive  effective  intervention from \nthe schools or state. He was raised in a crack -house, and learned to cope with his extreme \nemotions by using the drugs and alcohol that ultimately took his parents\u2019 lives. Carl has tried \nand is still trying to get his life on track, and create a positive relationship with his young \ndaughter.",
+      "page_number": 8,
+      "patient_name": "Carl John Smith   \nDOB",
+      "chunk_index": 51,
+      "hierarchical_level": 1
+    },
+    {
+      "pdf_name": "msr1.pdf",
+      "chunk": "When I get \nstresse d out, I immediately shut down.\u201d  \n Personal History:  Mr. Smith  is the youngest of three children, and  his parent s divorced when he was two. Carl \nstates \u201cThey hated each other!\u201d Carl and his older brother, Greg, lived with their mother for  the \nthree years  after their parents\u2019 divorce . He says things changed when his mom had a mental \nbreakdown: \u201cAt some point she went into a mental hospital because she was suicidal.",
+      "page_number": 1,
+      "patient_name": "Carl John Smith   \nDOB",
+      "chunk_index": 2,
+      "hierarchical_level": 1
+    },
+    {
+      "pdf_name": "msr1.pdf",
+      "chunk": "In 2002 Mr. Smith \u2019s probation \nofficer ordered him to attend Teen County Camp , a military style boot camp for youth  in \ntrouble . Here, Carl received intense counseling and had to attend school for 12 hours per day, 6 \ndays per week. Despite this intervention, he continued to struggle legally  and with his mental \nhealth after discharge from the program. After leaving school, Carl continued to s truggle. During his teen years, his mother\u2019s health \ndeclined.",
+      "page_number": 2,
+      "patient_name": "Carl John Smith   \nDOB",
+      "chunk_index": 8,
+      "hierarchical_level": 1
+    },
+    {
+      "pdf_name": "msr1.pdf",
+      "chunk": "He hopes to \none day reunite with his daughter, once he \u201cfigures things out.\u201d  \n After losing custody of his daughter , Mr. Smith  has not had a home. He lived with his father for \nabout a year , as he slowly died from c irrhosis of the Liver. Carl  says he was again left as the sole \ncaretaker of a dying parent . After his  father passed away in 2015, Carl turned to living outside \nand in s helters. He said he would sleep on park benches, in abandoned houses, and shelters \nwhen he got a chance.",
+      "page_number": 2,
+      "patient_name": "Carl John Smith   \nDOB",
+      "chunk_index": 12,
+      "hierarchical_level": 1
+    }
+  ]
+}

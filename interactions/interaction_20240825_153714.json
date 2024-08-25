@@ -1,0 +1,56 @@
+{
+  "timestamp": "2024-08-25T15:37:14.073063",
+  "question": "What is the DOB of Clara, and how old was her father on that day",
+  "answer": "{\n  \"highlight\": [\n    {\n      \"text\": \"Date of Birth: August 15, 1985\",\n      \"page_number\": 1,\n      \"filename\": \"report4br2.pdf\"\n    },\n    {\n      \"text\": \"Father's Name:  John Atkins  \\nDate of Birth:  20/01/1955\",\n      \"page_number\": 1,\n      \"filename\": \"report4br2.pdf\"\n    }\n  ],\n  \"ans\": \"Clara was born on August 15, 1985. Her father, John Atkins, was born on January 20, 1955, which means he was 30 years old on Clara's date of birth.\"\n}",
+  "context_metadata": [
+    {
+      "pdf_name": "report4br2.pdf",
+      "chunk_index": 0,
+      "page_number": 1,
+      "patient_name": "Clara Atkins  \nDate of Birth",
+      "hierarchical_level": 1,
+      "cluster_id": 0,
+      "summary_text": "**Birth Report Summary**\n\n- **Child's Information**: \n  - Name: Clara Atkins\n  - Date of Birth: August 15, 1985\n  - Time of Birth: 03:45 AM\n  - Gender: Female\n  - Birth Weight: 3.2 kg\n  - Birth Length: 50 cm\n  - Head Circumference: 34 cm\n  - Place of Birth: Royal Hampshire County Hospital, Winchester\n  - Delivery Method: Spontaneous vaginal delivery\n  - Gestational Age: 39 weeks and 2 days\n  - Apgar Scores: 1 min - 8, 5 min - 9\n\n- **Mother's Information**:\n  -"
+    },
+    {
+      "pdf_name": "report4br2.pdf",
+      "chunk_index": 4,
+      "page_number": 4,
+      "patient_name": "Clara Atkins  \nDate of Birth",
+      "hierarchical_level": 0,
+      "cluster_id": null,
+      "summary_text": null,
+      "original_text": "Report Prepared by:  \nMidwife Anne Thompson  \nRoyal Hampshire County Hospital  \nDate: 17/08/1985  \nMother\u2019s Signature:  Mary Atkins  \nFather\u2019s Signature:  John Atkins"
+    },
+    {
+      "pdf_name": "report4br2.pdf",
+      "chunk_index": 0,
+      "page_number": 1,
+      "patient_name": "Clara Atkins  \nDate of Birth",
+      "hierarchical_level": 0,
+      "cluster_id": null,
+      "summary_text": null,
+      "original_text": "Birth Report  \nChild's Name:  Clara Atkins  \nDate of Birth:  15/08/1985  \nTime of Birth:  03:45 AM  \nGender: Female  \nBirth Weight:  3.2 kg  \nBirth Length:  50 cm  \nHead Circumference:  34 cm  \nPlace of Birth:  Royal Hampshire County Hospital, Winchester, Hampshire, SO22 5DG  \nMethod of Delivery:  Spontaneous vaginal delivery  \nGestational Age at Birth:  39 weeks and 2 days  \nApgar Scores:  \n\u2022 1 minute:  8 \n\u2022 5 minutes:  9 \n \nMother's Information  \nMother's Name:  Mary Atkins  \nDate of Birth:  12/04/1957  \nNHS Number:  987 654 3210  \nAddress:  23 Green Lane, Winchester, Hampshire, SO22 4QP  \nContact Number:  07700 900789  \nOccupation:  School Teacher  \nMarital Status:  Married  \nBlood Group:  A+ \nPrevious Pregnancies:  \n\u2022 Gravida:  2 \n\u2022 Para: 1 (Previous pregnancy: Full -term, vaginal delivery)  \nFather's Information  \nFather's Name:  John Atkins  \nDate of Birth:  20/01/1955  \nNHS Number:  876 543 2109  \nAddress:  23 Green Lane, Winchester, Hampshire, SO22 4QP  \nContact Number:  07700 900456  \nOccupation:  Civil Engineer  \nBlood Group:  O+"
+    },
+    {
+      "pdf_name": "report4br2.pdf",
+      "chunk_index": 1,
+      "page_number": 2,
+      "patient_name": "Clara Atkins  \nDate of Birth",
+      "hierarchical_level": 0,
+      "cluster_id": null,
+      "summary_text": null,
+      "original_text": "Sibling Inf ormation  \nSister\u2019s name: Sarah Jones  \nDate of Birth:  20/01/19 81 \nNHS Number:  876 543 8888  \nAddress:  23 Green Lane, Winchester, Hampshire, SO22 4QP  \nOccupation:  Student  \nBlood Group:  A+ \nBrother\u2019s name: Nicholas Atkins  \nDate of Birth:  23/05/1983 \nNHS Number:  876 543 9999  \nAddress:  23 Green Lane, Winchester, Hampshire, SO22 4QP  \nOccupation:  Student  \nBlood Group:  A+ \n \nPregnancy Details  \nAntenatal Care:  \n\u2022 First Antenatal Visit:  10/12/1984 at Royal Hampshire County Hospital  \n\u2022 Antenatal Visits:  Regular visits every 4 weeks until 28 weeks, then every 2 weeks until \n36 weeks, and weekly thereafter. \u2022 Ultrasound Scans:  \no Dating Scan:  12 weeks, confirmed estimated due date (EDD) of 19/08/1985  \no Anomaly Scan:  20 weeks, normal findings. \u2022 Blood Tests:  \no Routine blood tests:  Normal  \no Glucose tolerance test (GTT):  Normal  \no Group B Streptococcus:  Negative  \n\u2022 Blood Pressure:  Well-controlled throughout pregnancy. Complications During Pregnancy:  \n\u2022 Mild nausea and vomiting:  Managed with dietary changes and small frequent meals. \u2022 No other significant complications. Labour and Delivery  \nOnset of Labour:  \n\u2022 Labour started spontaneously at 39 weeks and 2 days. \u2022 Contractions:  Began at 10:30 PM on 14/08/1985, regular and progressively stronger. Admission to Hospital:"
+    },
+    {
+      "pdf_name": "report4br2.pdf",
+      "chunk_index": 2,
+      "page_number": 3,
+      "patient_name": "Clara Atkins  \nDate of Birth",
+      "hierarchical_level": 0,
+      "cluster_id": null,
+      "summary_text": null,
+      "original_text": "\u2022 Admitted to the labour ward at Royal Hampshire County Hospital at 12:15 AM on \n15/08/1985. Labour Progression:  \n\u2022 Cervical Dilation:  4 cm on admission, progressing to full dilation by 03:15 AM. \u2022 Pain Relief:  Entonox (gas and air) during active labour. No epidural was requested. \u2022 Delivery Time:  03:45 AM  \n\u2022 Placental Delivery:  Placenta delivered spontaneously within 10 minutes of birth, intact \nand complete. Postnatal Care  \nMother:  \n\u2022 Immediate Postnatal Observation:  Stable, with normal vital signs. \u2022 Perineal Tear:  First-degree tear, managed with sutures. \u2022 Breastfeeding:  Initiated within the first hour of birth; successful latch. \u2022 Postnatal Monitoring:  Regular checks; discharged on 17/08/1985 after 48 hours of \nobservation. Newborn:  \n\u2022 Immediate Care:  Newborn assessed, Apgar scores recorded. \u2022 Breastfeeding:  Successfully initiated within the first hour. \u2022 Newborn Screening:  Blood spot test performed on 17/08/1985, results normal. \u2022 Hearing Test:  Conducted on 16/08/1985, normal. \u2022 Vitamin K:  Administered via intramuscular injection shortly after birth. Discharge Information  \nMother and Baby Discharged on:  17/08/1985  \nFollow-Up Appointment:  \n\u2022 Midwife Home Visit:  Scheduled for 19/08/1985  \n\u2022 Six-Week Postnatal Check:  Scheduled with GP on 26/09/1985  \nBreastfeeding Support:  Referral to local breastfeeding clinic for additional support, if \nneeded."
+    }
+  ]
+}

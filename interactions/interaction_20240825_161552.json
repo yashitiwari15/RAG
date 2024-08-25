@@ -1,0 +1,57 @@
+{
+  "timestamp": "2024-08-25T16:15:52.466260",
+  "question": "what are CHECKLISTS FOR NORMAL OPERATING PROCEDURES",
+  "answer": "{\n  \"highlight\": [\n    {\n      \"text\": \"Normal Operating Procedures\",\n      \"page_number\": 121,\n      \"filename\": \"manual2a.pdf\"\n    },\n    {\n      \"text\": \"Position lights, strobe lights (ACLs). . . . . . . . checko) Master switch (BAT) . . . . . . . . . . . . . . . . . . . OFFp) Check for loose items . . . . . . . . . . . . . . . . . . completeq) Flight controls and trim. . . . . . . . . . . . . . . . . free to move and correctr) Baggage. . . . . . . . . . . . . . . . . . . . . . . . . . . . stowed and secures) Emergency axe (if O\u00c4M 40-326 installed) . . . stowed and secure\",\n      \"page_number\": 121,\n      \"filename\": \"manual2a.pdf\"\n    },\n    {\n      \"text\": \"A visual inspection means: examination for damage, cracks, delamination, excessive play, load transmission, correct attachment and general condition. In addition control surfaces should be checked for freedom of movement.\",\n      \"page_number\": 121,\n      \"filename\": \"manual2a.pdf\"\n    }\n  ],\n  \"ans\": \"Checklists for normal operating procedures include a series of checks such as verifying the position and function of lights, ensuring the master switch is off, checking for loose items, confirming that flight controls and trim are free to move, and that baggage is properly stowed. Additionally, a visual inspection is required to assess the condition of the airplane, looking for any damage or issues with control surfaces.\"\n}",
+  "context_metadata": [
+    {
+      "pdf_name": "manual2a.pdf",
+      "chunk_index": 225,
+      "page_number": 153,
+      "patient_name": null,
+      "hierarchical_level": 0,
+      "cluster_id": null,
+      "summary_text": null,
+      "original_text": ". . . . . . . . . . UPEND OF CHECKLIST"
+    },
+    {
+      "pdf_name": "manual2a.pdf",
+      "chunk_index": 223,
+      "page_number": 152,
+      "patient_name": null,
+      "hierarchical_level": 0,
+      "cluster_id": null,
+      "summary_text": null,
+      "original_text": ". . . . . . . . . . . . . . . . . OFFEND OF CHECKLIST"
+    },
+    {
+      "pdf_name": "manual2a.pdf",
+      "chunk_index": 15,
+      "page_number": 16,
+      "patient_name": null,
+      "hierarchical_level": 0,
+      "cluster_id": null,
+      "summary_text": null,
+      "original_text": "Introduction DA 40 AFM\nPage 0 - 14 Rev. 8 01-Dec-2010 Doc. # 6.01.01-E0.4 TABLE OF CONTENTSChapterGENERAL(a non-approved chapter)....................................... 1OPERATING LIMITATIONS(an approved chapter).......................................... 2EMERGENCY PROCEDURES(a non-approved chapter)....................................... 3NORMAL OPERATING PROCEDURES(a non-approved chapter)...................................... 4 AABNORMAL OPERATING PROCEDURES(a non-approved chapter)...................................... 4 BPERFORMANCE(a non-approved chapter)....................................... 5MASS AND BALANCE / EQUIPMENT LIST(a non-approved chapter)....................................... 6DESCRIPTION OF THE AIRPLANE AND ITS SYSTEMS(a non-approved chapter)....................................... 7AIRPLANE HANDLING, CARE AND MAINTENANCE(a non-approved chapter)....................................... 8SUPPLEMENTS.................................................... 9"
+    },
+    {
+      "pdf_name": "manual2a.pdf",
+      "chunk_index": 159,
+      "page_number": 121,
+      "patient_name": null,
+      "hierarchical_level": 0,
+      "cluster_id": null,
+      "summary_text": null,
+      "original_text": "DA 40 AFMNormal OperatingProcedures\nDoc. # 6.01.01-E Rev. 8 01-Dec-2010 Page 4A - 5n) Position lights, strobe lights (ACLs). . . . . . . . checko) Master switch (BAT) . . . . . . . . . . . . . . . . . . . OFFp) Check for loose items . . . . . . . . . . . . . . . . . . completeq) Flight controls and trim. . . . . . . . . . . . . . . . . free to move and correctr) Baggage. . . . . . . . . . . . . . . . . . . . . . . . . . . . stowed and secures) Emergency axe (if O\u00c4M 40-326 installed) . . . stowed and secure%END OF CHECKLISTII. Walk-around check, visual inspectionCAUTIONA visual inspection means: examination for damage, cracks,delamination, excessive play, load transmission, correctattachment and general condition. In addition control surfacesshould be checked for freedom of movement.CAUTIONIn low ambient temperatures the airplane must be completelycleared of ice, snow and similar accumulations."
+    },
+    {
+      "pdf_name": "manual2a.pdf",
+      "chunk_index": 405,
+      "page_number": 288,
+      "patient_name": null,
+      "hierarchical_level": 0,
+      "cluster_id": null,
+      "summary_text": null,
+      "original_text": "Handling DA 40 AFM\nPage 8 - 2 Rev. 8 01-Dec-2010 Doc. # 6.01.01-E8.1 INTRODUCTIONChapter 8 contains the manufacturer's recommended procedures for proper groundhandling and servicing of the airplane. The Airplane Maintenance Manual (Doc. No.6.02.01) lists certain inspection and maintenance requirements which must be followedif the airplane is to retain a new plane performance and reliability.8.2 AIRPLANE INSPECTION INTERVALSFor maintenance work on engine and propeller, the currently effective Operator's Manuals,Service Instructions, Service Letters and Service Bulletins of Lycoming and mt-Propellermust be followed. For airframe inspections, the currently effective checklists/manuals ofthe manufacturer must be followed.CAUTIONUnscheduled maintenance checks are required after:-H a r d  l a n d i n g s .-P r o p e l l e r  s t r i k e .-E n g i n e  f i r e .-L i g h t i n g  s t r i k e .-O c c u r r e n c e  o f  o t h e r  m a l f u n c t i o n s  a n d  d a m a g e .Unscheduled maintenance checks are described in theAirplane Maintenance Manual (Doc. No. 6.02.01; Section05-50)."
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "timestamp": "2024-08-13T20:38:16.136134",
+  "question": "who is sarah johnson",
+  "answer": "{\n  \"highlight\": \"Patient Information:  \\n\u2022 Name: Sarah Johnson  \\n\u2022 Date of Birth:  June 22, 1975  \\n\u2022 Gender: Female  \\n\u2022 Marital Status:  Single  \\n\u2022 Occupation: Teacher\",\n  \"filename\": \"medical record 01.pdf\",\n  \"page_number\": 1,\n  \"ans\": \"Sarah Johnson is a 48-year-old female teacher.\"\n}",
+  "context_metadata": [
+    {
+      "pdf_name": "medical record 01.pdf",
+      "chunk": "Medical History Report  \nPatient Information:  \n\u2022 Name: Sarah Johnson  \n\u2022 Date of Birth:  June 22, 1975  \n\u2022 Gender: Female  \n\u2022 Marital Status:  Single  \n\u2022 Occupation:  Teacher  \n\u2022 Primary Care Physician:  Dr. Michael Brown  \nChief Complaint:  \n\u2022 Severe headaches and dizziness for the past month. History of Present Illness:  \n\u2022 Onset: Symptoms began approximately 30 days ago. \u2022 Duration:  Symptoms occur daily, lasting several hours. \u2022 Character:  The headache is described as throbbing, primarily located on the right side \nof the head, often accompanied by dizziness and nausea. \u2022 Associated Symptoms:  Light sensitivity, occasional vomiting, and blurred vision.",
+      "page_number": 1,
+      "patient_name": "Sarah Johnson",
+      "chunk_index": 0,
+      "hierarchical_level": 1
+    },
+    {
+      "pdf_name": "testingdata2.pdf",
+      "chunk": "Medical History Report  \nPatient Information:  \n\u2022 Name:  Jane Smith  \n\u2022 Date of Birth:  March 12, 1985  \n\u2022 Gender:  Female  \n\u2022 Marital Status:  Single  \n\u2022 Occupation:  Graphic Designer  \n\u2022 Primary Care Physician:  Dr. Robert Lee  \nChief Complaint:  \n\u2022 Persistent abdominal pain and bloating for the past three weeks. History of Present Illness:  \n\u2022 Onset:  Symptoms began approximately three weeks ago. \u2022 Duration:  Occurs daily, lasting throughout the day. \u2022 Character:  Described as a dull, cramping pain in the lower abdomen, with occasional sharp \nepisodes. \u2022 Associated Symptoms:  Bloating, gas, and occasional nausea. \u2022 Aggravating Factors:  Consumption of certain foods, stress.",
+      "page_number": 1,
+      "patient_name": "Jane Smith",
+      "chunk_index": 0,
+      "hierarchical_level": 1
+    },
+    {
+      "pdf_name": "medical record 01.pdf",
+      "chunk": "\u2022 Siblings:  One sister (age 45, history of migraines). Social History:  \n\u2022 Smoking:  Never smoked.",
+      "page_number": 1,
+      "patient_name": "Sarah Johnson",
+      "chunk_index": 2,
+      "hierarchical_level": 1
+    },
+    {
+      "pdf_name": "medical record 01.pdf",
+      "chunk": "\u2022 July 23, 2016",
+      "page_number": 4,
+      "patient_name": "Sarah Johnson",
+      "chunk_index": 9,
+      "hierarchical_level": 1
+    },
+    {
+      "pdf_name": "testingdata2.pdf",
+      "chunk": "\u2022 Relieving Factors:  Resting, avoiding trigger foods. \u2022 Previous Episodes:  Similar episodes in the past, usually resolved without intervention. Past Medical History:  \n\u2022 Irritable Bowel Syndrome (IBS):  Diagnosed in 2018, managed with dietary modifications. \u2022 Seasonal Allergies:  Managed with over -the-counter antihistamines. \u2022 Surgeries:  Tonsillectomy in childhood. \u2022 Chronic Conditions:  None reported. Family History:  \n\u2022 Father:  Alive, age 62 (type 2 diabetes). \u2022 Mother:  Alive, age 60 (hypertension). \u2022 Siblings:  One brother (age 30, healthy).",
+      "page_number": 1,
+      "patient_name": "Jane Smith",
+      "chunk_index": 1,
+      "hierarchical_level": 1
+    },
+    {
+      "pdf_name": "medical record 01.pdf",
+      "chunk": "\u2022 Aggravating Factors:  Stress, loud noises, and bright lights. \u2022 Relieving Factors:  Resting in a dark, quiet room, over -the-counter pain relief. \u2022 Previous Episodes:  Similar episodes occurred intermittently over the past year but have \nbecome more frequent and severe. Past Medical History:  \n\u2022 Migraines:  Diagnosed in 2014, managed with lifestyle modifications and over -the-\ncounter medications. \u2022 Seasonal Allergies:  Managed with antihistamines as needed. \u2022 Surgeries:  Cholecystectomy in 2012. \u2022 Chronic Conditions:  None reported. Family History:  \n\u2022 Father: Alive, age 75 (hypertension, hyperlipidemia). \u2022 Mother: Deceased at age 68 (breast cancer).",
+      "page_number": 1,
+      "patient_name": "Sarah Johnson",
+      "chunk_index": 1,
+      "hierarchical_level": 1
+    },
+    {
+      "pdf_name": "medical record 01.pdf",
+      "chunk": "o Discuss the importance of avoiding known headache triggers such as bright \nlights, loud noises, and certain foods. Signature:  \n\u2022 Dr. Michael Brown, MD",
+      "page_number": 3,
+      "patient_name": "Sarah Johnson",
+      "chunk_index": 8,
+      "hierarchical_level": 1
+    },
+    {
+      "pdf_name": "testingdata2.pdf",
+      "chunk": "Social History:  \n\u2022 Smoking:  Never smoked. \u2022 Alcohol:  Occasional, 1 -2 drinks per month. \u2022 Drug Use:  Denies any recreational drug use. \u2022 Exercise:  Regular jogging and Pilates. \u2022 Diet:  Mostly vegetarian, occasionally consumes dairy. Review of Systems:  \n\u2022 General:  Reports fatigue, denies significant weight loss or fever. \u2022 Skin:  No rashes or changes noted. \u2022 HEENT:  No vision changes, hearing loss, or sore throat. \u2022 Cardiovascular:  Denies chest pain or palpitations. \u2022 Respiratory:  No shortness of breath or wheezing. \u2022 Gastrointestinal:  Reports abdominal pain, bloating, and changes in bowel habits. \u2022 Genitourinary:  Denies dysuria or urinary frequency.",
+      "page_number": 2,
+      "patient_name": "Jane Smith",
+      "chunk_index": 2,
+      "hierarchical_level": 1
+    },
+    {
+      "pdf_name": "testingdata2.pdf",
+      "chunk": "\u2022 Respiratory:  Clear to auscultation, no adventitious sounds. \u2022 Abdomen:  Soft, mild tenderness in the lower quadrants, no palpable masses. \u2022 Extremities:  No cyanosis, edema, or clubbing. \u2022 Neurological:  Cranial nerves II -XII intact, no focal deficits. Assessment:  \n\u2022 Abdominal pain and bloating, likely related to IBS. Differential diagnosis includes:  \n\u2022 Irritable Bowel Syndrome  \n\u2022 Gastroenteritis  \n\u2022 Food intolerance  \nPlan:  \n1. Diagnostic Testing:",
+      "page_number": 2,
+      "patient_name": "Jane Smith",
+      "chunk_index": 4,
+      "hierarchical_level": 1
+    },
+    {
+      "pdf_name": "medical record 01.pdf",
+      "chunk": "\u2022 Alcohol:  Consumes alcohol occasionally, 1 -2 drinks per month. \u2022 Drug Use:  Denies any recreational drug use. \u2022 Exercise:  Regular yoga and walking. \u2022 Diet: Balanced diet, includes fruits, vegetables, and lean proteins. Review of Systems:  \n\u2022 General:  Reports fatigue, denies weight loss or night sweats. \u2022 Skin: No rashes or lesions. \u2022 Head, Eyes, Ears, Nose, Throat (HEENT):  Denies hearing loss, sore throat, or nasal \ncongestion. \u2022 Cardiovascular:  Denies chest pain, palpitations, or edema. \u2022 Respiratory:  Denies cough, shortness of breath, or wheezing. \u2022 Gastrointestinal:  Occasional nausea and vomiting related to headaches, denies other \ngastrointestinal symptoms.",
+      "page_number": 2,
+      "patient_name": "Sarah Johnson",
+      "chunk_index": 3,
+      "hierarchical_level": 1
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "timestamp": "2024-08-24T10:44:52.019838",
+  "question": "give the summary of document",
+  "answer": "{\n  \"highlight\": [\n    \"The Clinical Negligence Report for patient John Doe, prepared by Dr. Sarah Thompson, outlines incidents of alleged medical negligence during his care at St. Mary's Hospital from February to May 2023.\",\n    \"The report details a timeline of events beginning with an initial consultation on February 5, 2023, where Dr. Emily Harper diagnosed him with gastritis without further investigation.\",\n    \"Subsequent visits revealed persistent symptoms, leading to a delayed ultrasound on March 15, which was postponed due to scheduling issues.\",\n    \"The ultrasound, conducted on April 5, identified a large abdominal mass, but a referral to gastroenterology was not made until April 25 due to communication errors.\",\n    \"Surgery was performed on May 2, but the patient suffered a post-surgical infection, delaying recovery and worsening the patient's health.\",\n    \"On May 15, the patient developed sepsis and required ICU admission due to the systemic response from the infection.\",\n    \"Key breaches of duty included failure to conduct necessary diagnostic tests, delays in scheduling imaging, inadequate post-surgical care, and communication failures between departments.\"\n  ],\n  \"filename\": \"report1.pdf\",\n  \"page_number\": [1],\n  \"ans\": \"The document is a Clinical Negligence Report for patient John Doe, detailing alleged medical negligence during his care at St. Mary's Hospital from February to May 2023. It outlines a timeline of events starting with an initial misdiagnosis of gastritis, followed by delays in necessary imaging and a referral to a specialist. After surgery to remove an abdominal mass, the patient suffered a post-operative infection that led to sepsis and required ICU care. The report highlights several key failures in the medical care provided, emphasizing the impact of these delays and communication errors on the patient's health.\"\n}",
+  "context_metadata": [
+    {
+      "pdf_name": "report1.pdf",
+      "chunk_index": 0,
+      "page_number": 1,
+      "patient_name": "John Doe  \nDOB",
+      "hierarchical_level": 1,
+      "cluster_id": 0,
+      "summary_text": "The Clinical Negligence Report for patient John Doe, prepared by Dr. Sarah Thompson, outlines incidents of alleged medical negligence during his care at St. Mary's Hospital from February to May 2023. The report details a timeline of events beginning with an initial consultation on February 5, 2023, where Dr. Emily Harper diagnosed him with gastritis without further investigation. Subsequent visits revealed persistent symptoms, leading to a delayed ultrasound on March 15, which was postponed due to scheduling issues. The ultrasound, conducted on April 5, identified a large abdominal mass, but a referral to gastroenterology was not made until April 25 due to communication errors. Surgery was performed on May 2, but the patient suffered a post-surgical"
+    },
+    {
+      "pdf_name": "report1.pdf",
+      "chunk_index": 0,
+      "page_number": 1,
+      "patient_name": "John Doe  \nDOB",
+      "hierarchical_level": 1,
+      "cluster_id": 1,
+      "summary_text": "The patient underwent surgery on May 2, 2023, to remove a mass, but mishandling of sterile equipment led to a post-operative infection, delaying recovery and worsening the patient's health. On May 15, the patient developed sepsis and required ICU admission due to the systemic response from the infection. Treatment with IV antibiotics stabilized the patient, but delays in diagnosis and treatment had significant negative effects on their health and quality of life. Key breaches of duty included failure to conduct necessary diagnostic tests, delays in scheduling imaging, inadequate post-surgical care, and communication failures between departments. These issues contributed to the patient's deteriorating condition, highlighting that early detection and proper surgical practices could have prevented the infection and its serious consequences."
+    }
+  ]
+}

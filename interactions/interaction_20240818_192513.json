@@ -1,0 +1,47 @@
+{
+  "timestamp": "2024-08-18T19:25:13.412123",
+  "question": "who is carl john",
+  "answer": "{\n  \"highlight\": \"Name:  Carl John Smith   \\nDOB:  04/18/1985\",\n  \"filename\": \"msr1.pdf\",\n  \"page_number\": 1,\n  \"ans\": \"Carl John Smith is a 31-year-old man who has been experiencing homelessness on and off for all his adult life.\"\n}",
+  "context_metadata": [
+    {
+      "pdf_name": "msr1.pdf",
+      "chunk": "May  5, 2023          \nName:  Carl John Smith   \nDOB:  04/18/1985 \n SSN:  999- 99-9999  \n \nDear DDS Examiner : \n   Introduction:  \nMr. Carl Smith i s a 31 -year -old man  who has been experiencing homelessness on and off for all \nhis adult life. Mr. Smith  says he is about 5 \u20195\u201d and weighs approximately 129  lbs. He presents  as \nvery thin, typically wearing a clean white undershirt and loose -fitting  khaki shorts at interviews. His brown hair is disheveled  and dirty looking , and he constantly fidgets and shakes his hand or \nknee during interviews.",
+      "page_number": 1,
+      "patient_name": "Carl John Smith   \nDOB",
+      "chunk_index": 0,
+      "hierarchical_level": 1
+    },
+    {
+      "pdf_name": "msr1.pdf",
+      "chunk": "Despite his best efforts, Carl is a poor historian. In interviews with this \nwriter, he needed constant redirecting and prompting to pro vide information about his \npersonal and psychiatric history. Carl is diagnosed with Major Depressive Disorder ; recurrent , \nAnxiety Disorder, Attention Deficit Hyperactivity Disorder, Intermittent Explosive Disorder, and a possible traumatic brain injury . Physically, he has degenera tive disc disease, Lumbar \nradiculopathy, Allergic Rhinitis, and a history of fainting since childhood. When asked why \nworking is difficult for him, Carl responded \u201cI have a hard time controlling myself.",
+      "page_number": 1,
+      "patient_name": "Carl John Smith   \nDOB",
+      "chunk_index": 1,
+      "hierarchical_level": 1
+    },
+    {
+      "pdf_name": "msr1.pdf",
+      "chunk": "His most recent admission dated 2/11/2017, states , \u201cHe reports he cut his left wrist  with \na knife today multiple times due to his depression.\u201d He was diagnosed with Bipolar 1 Disorder, \nDepression, PTSD, Social Anxiety Disorder, and Suicidal thoughts from Green General Hospital . Complete records from GGH  and JCSP  have been forwarded to DDS in the SOAR packet. Carl is currently involved with outpatient treatment with Green  Community Mental Health . He \nis scheduled for an updated psychiatric  evaluation next week, as his m ost current psychiatric  \nevaluation was dated 1/29/2016.",
+      "page_number": 6,
+      "patient_name": "Carl John Smith   \nDOB",
+      "chunk_index": 38,
+      "hierarchical_level": 1
+    },
+    {
+      "pdf_name": "msr1.pdf",
+      "chunk": "He is engaged in mental health treatment, case management, and housing services. Despite these interventions, he still struggles to meet his most basic needs. At this time, Carl  \ncontinues to experience frequent suicidal thoughts, resulting in self- harm behaviors, excessive \ndrinking, and dangerous decisions. He has never been able to maintain substantial gainful \nemp loyment. If you have any questions please feel free to  contact this writer a t 123- 456- 7890  or his treating \nPsychiatrist, Dr. Smith  at 234-567- 8910 \n \nSincerely,  \n \nJennifer Phillips, MSW  \n \nJennifer Phillips, MSW  \nSOAR Specialist  \nLocal Housing Service Agency",
+      "page_number": 8,
+      "patient_name": "Carl John Smith   \nDOB",
+      "chunk_index": 52,
+      "hierarchical_level": 1
+    },
+    {
+      "pdf_name": "msr1.pdf",
+      "chunk": "He says \nthat losing custody of his daughter and the death of his father, which he takes responsibility for, had a strong impact on his mental stability. He was using alcohol and heroin to manage his symptoms . After a  heavy  episode of heroin and alcohol use, Carl often becomes suicidal and \nself-harms. He has been  seen in the emergency room at Green General Hospital and transferred \nto Johnson Crisis Stabilization Program multiple  times since 2015. During my time working with \nthis applicant, I witnessed a relapse in his drug use .",
+      "page_number": 4,
+      "patient_name": "Carl John Smith   \nDOB",
+      "chunk_index": 25,
+      "hierarchical_level": 1
+    }
+  ]
+}

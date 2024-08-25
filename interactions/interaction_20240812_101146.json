@@ -1,0 +1,87 @@
+{
+  "timestamp": "2024-08-12T10:11:46.001734",
+  "question": "what is springboot ",
+  "answer": "{\n  \"highlight\": \"Anyone with some basic technical or programming skills will be able to get to grips with how and why to use Spring Boot.\",\n  \"filename\": \"Greg_L_Turnquist_-_Learning_Spring_Boot_3_0_Simplify_the_development_of_production-grade_applications_using_Java_and_Spring.pdf\",\n  \"page_number\": 5,\n  \"ans\": \"Spring Boot is a framework that simplifies the development of production-grade applications using Java.\"\n}",
+  "context_metadata": [
+    {
+      "pdf_name": "Greg_L_Turnquist_-_Learning_Spring_Boot_3_0_Simplify_the_development_of_production-grade_applications_using_Java_and_Spring.pdf",
+      "chunk": "Anyone with some basic technical or programming skills will be able to get to grips with \nhow and why to use Spring Boot. There is more to Spring Boot than just main methods, embedded containers, autoconfiguration, and \nmanagement endpoints. The pure joy of getting started with a fully featured Spring application in a \nfew lines of code cannot be understated, for instance. I invite you to dip into this book, break out an \neditor or an IDE, and crank up some applications for yourself.",
+      "page_number": 5,
+      "patient_name": null,
+      "chunk_index": 8,
+      "hierarchical_level": 1
+    },
+    {
+      "pdf_name": "Greg_L_Turnquist_-_Learning_Spring_Boot_3_0_Simplify_the_development_of_production-grade_applications_using_Java_and_Spring.pdf",
+      "chunk": "Chapter 7 , Releasing an Application with Spring Boot , helps you discover multiple ways to take your \napp to production and put it in the hands of your users.",
+      "page_number": 14,
+      "patient_name": null,
+      "chunk_index": 37,
+      "hierarchical_level": 1
+    },
+    {
+      "pdf_name": "Greg_L_Turnquist_-_Learning_Spring_Boot_3_0_Simplify_the_development_of_production-grade_applications_using_Java_and_Spring.pdf",
+      "chunk": "This is to get a taste of how Spring Boot operates, allowing us to leverage it in later \nchapters as we build applications. The key aspects that make Spring Boot powerful while retaining its \nflexibility to serve user needs will be described in this chapter. In this chapter, we\u2019ll cover the following topics:\n\u2022 Autoconfiguring Spring beans\n\u2022 Adding components of the Spring portfolio using Spring Boot starters\n\u2022 Customizing the setup with configuration properties\n\u2022 Managing application dependencies",
+      "page_number": 22,
+      "patient_name": null,
+      "chunk_index": 55,
+      "hierarchical_level": 1
+    },
+    {
+      "pdf_name": "Greg_L_Turnquist_-_Learning_Spring_Boot_3_0_Simplify_the_development_of_production-grade_applications_using_Java_and_Spring.pdf",
+      "chunk": "Summary\n 239\nIn the meantime, if you want to explore even more content regarding Spring Boot, check out the \nfollowing resources:\n\u2022 http://bit.ly/3uSPLCz : Check out my Y ouTube channel, loaded with free videos \nabout Spring Boot\n\u2022 https://springbootlearning.com/medium : I write weekly articles on Spring Boot \nas well as software engineering in general\n\u2022 https://springbootlearning.com/podcast : I periodically post audio-only episodes \nwhere I either interview leaders from the Spring community or share morsels of knowledge \nabout the world of Spring\n\u2022 https://twitter.com/springbootlearn : If you want to connect, follow me on Twitter\nHappy coding!",
+      "page_number": 258,
+      "patient_name": null,
+      "chunk_index": 879,
+      "hierarchical_level": 1
+    },
+    {
+      "pdf_name": "Greg_L_Turnquist_-_Learning_Spring_Boot_3_0_Simplify_the_development_of_production-grade_applications_using_Java_and_Spring.pdf",
+      "chunk": "Since the \nmajority of application development today is focused on web applications, learning how Spring Boot \nstreamlines the whole process will open the door to building apps for years to come! In this chapter, we\u2019ll cover the following topics:\n\u2022 Using start.spring.io  to build apps\n\u2022 Creating a Spring MVC web controller\n\u2022 Using start.spring.io  to augment an existing project\n\u2022 Leveraging templates to create content\n\u2022 Creating JSON-based APIs\n\u2022 Hooking in Node.js to a Spring Boot web app\nWhere to find this chapter\u2019s code\nThe code for this chapter is available at https://github.com/PacktPublishing/\nLearning-Spring-Boot-3.0/tree/main/ch2 .",
+      "page_number": 42,
+      "patient_name": null,
+      "chunk_index": 124,
+      "hierarchical_level": 1
+    },
+    {
+      "pdf_name": "Greg_L_Turnquist_-_Learning_Spring_Boot_3_0_Simplify_the_development_of_production-grade_applications_using_Java_and_Spring.pdf",
+      "chunk": "2\nCreating a Web Application \nwith Spring Boot\nIn Chapter 1 , Core Features of Spring Boot , we learned about how Spring Boot comes with several \npowerful features including, autoconfiguration, starters, and configuration properties. Combined \nwith managed dependencies, it becomes easy to upgrade to supported versions of Spring portfolio \ncomponents as well as third-party libraries. With the help of start.spring.io , we\u2019ll learn the basics of creating a web application using Spring Boot. This is vital because the following chapters of this book will build upon this foundation.",
+      "page_number": 42,
+      "patient_name": null,
+      "chunk_index": 123,
+      "hierarchical_level": 1
+    },
+    {
+      "pdf_name": "Greg_L_Turnquist_-_Learning_Spring_Boot_3_0_Simplify_the_development_of_production-grade_applications_using_Java_and_Spring.pdf",
+      "chunk": "Security? Configuration? Integration \nwith JavaScript? It\u2019s in there. I loved working with Greg on the Spring team, and I continue to enjoy every conversation we have. There will always be an honored place on my (virtual) mantle for Greg\u2019s books, and I hope that you \nmake room on yours for them as well. Read this book and get to know Greg! Y our Spring Boot apps \nwill benefit from both. Best to you in your Spring Boot journey,\nMark Heckler\nPrinciple Cloud Advocate, Microsoft\n@mkheck",
+      "page_number": 6,
+      "patient_name": null,
+      "chunk_index": 13,
+      "hierarchical_level": 1
+    },
+    {
+      "pdf_name": "Greg_L_Turnquist_-_Learning_Spring_Boot_3_0_Simplify_the_development_of_production-grade_applications_using_Java_and_Spring.pdf",
+      "chunk": "This part includes the following chapters:\n\u2022 Chapter 6 , Configuring an Application with Spring Boot\n\u2022 Chapter 7 , Releasing an Application with Spring Boot\n\u2022 Chapter 8 , Going Native with Spring Boot",
+      "page_number": 172,
+      "patient_name": null,
+      "chunk_index": 572,
+      "hierarchical_level": 1
+    },
+    {
+      "pdf_name": "Greg_L_Turnquist_-_Learning_Spring_Boot_3_0_Simplify_the_development_of_production-grade_applications_using_Java_and_Spring.pdf",
+      "chunk": "Learning Spring Boot 3.0\nThird Edition\nCopyright \u00a9 2022 Packt Publishing\nAll rights reserved . No part of this book may be reproduced, stored in a retrieval system, or transmitted \nin any form or by any means, without the prior written permission of the publisher, except in the case \nof brief quotations embedded in critical articles or reviews. Every effort has been made in the preparation of this book to ensure the accuracy of the information \npresented. However, the information contained in this book is sold without warranty, either express \nor implied.",
+      "page_number": 3,
+      "patient_name": null,
+      "chunk_index": 1,
+      "hierarchical_level": 1
+    },
+    {
+      "pdf_name": "Greg_L_Turnquist_-_Learning_Spring_Boot_3_0_Simplify_the_development_of_production-grade_applications_using_Java_and_Spring.pdf",
+      "chunk": "There are also additional resources at https://\nspringbootlearning.com  to help you write better apps!",
+      "page_number": 15,
+      "patient_name": null,
+      "chunk_index": 42,
+      "hierarchical_level": 1
+    }
+  ]
+}

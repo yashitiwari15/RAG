@@ -1,0 +1,47 @@
+{
+  "timestamp": "2024-08-22T23:01:26.655839",
+  "question": "what is sarah johnson cheif complaint and what is the cheif complaint of jane smith",
+  "answer": "{\n  \"highlight\": [\n    \"Chief Complaint:  \\n\\u2022 Severe headaches and dizziness for the past month.\",\n    \"Chief Complaint:  \\n\\u2022 Persistent abdominal pain and bloating for the past three weeks.\"\n  ],\n  \"filename\": [\n    \"medical record 01.pdf\",\n    \"testingdata2.pdf\"\n  ],\n  \"page_number\": [\n    1,\n    1\n  ],\n  \"ans\": \"Sarah Johnson's chief complaint is severe headaches and dizziness lasting for the past month, while Jane Smith's chief complaint is persistent abdominal pain and bloating that has been occurring for the past three weeks.\"\n}",
+  "context_metadata": [
+    {
+      "pdf_name": "testingdata2.pdf",
+      "chunk": "Medical History Report  \nPatient Information:  \n\u2022 Name:  Jane Smith  \n\u2022 Date of Birth:  March 12, 1985  \n\u2022 Gender:  Female  \n\u2022 Marital Status:  Single  \n\u2022 Occupation:  Graphic Designer  \n\u2022 Primary Care Physician:  Dr. Robert Lee  \nChief Complaint:  \n\u2022 Persistent abdominal pain and bloating for the past three weeks. History of Present Illness:  \n\u2022 Onset:  Symptoms began approximately three weeks ago. \u2022 Duration:  Occurs daily, lasting throughout the day. \u2022 Character:  Described as a dull, cramping pain in the lower abdomen, with occasional sharp \nepisodes. \u2022 Associated Symptoms:  Bloating, gas, and occasional nausea. \u2022 Aggravating Factors:  Consumption of certain foods, stress. \u2022 Relieving Factors:  Resting, avoiding trigger foods. \u2022 Previous Episodes:  Similar episodes in the past, usually resolved without intervention. Past Medical History:  \n\u2022 Irritable Bowel Syndrome (IBS):  Diagnosed in 2018, managed with dietary modifications. \u2022 Seasonal Allergies:  Managed with over -the-counter antihistamines. \u2022 Surgeries:  Tonsillectomy in childhood. \u2022 Chronic Conditions:  None reported. Family History:  \n\u2022 Father:  Alive, age 62 (type 2 diabetes). \u2022 Mother:  Alive, age 60 (hypertension). \u2022 Siblings:  One brother (age 30, healthy).",
+      "page_number": 1,
+      "patient_name": "Jane Smith",
+      "chunk_index": 0,
+      "hierarchical_level": 1
+    },
+    {
+      "pdf_name": "medical record 01.pdf",
+      "chunk": "Medical History Report  \nPatient Information:  \n\u2022 Name: Sarah Johnson  \n\u2022 Date of Birth:  June 22, 1975  \n\u2022 Gender: Female  \n\u2022 Marital Status:  Single  \n\u2022 Occupation:  Teacher  \n\u2022 Primary Care Physician:  Dr. Michael Brown  \nChief Complaint:  \n\u2022 Severe headaches and dizziness for the past month. History of Present Illness:  \n\u2022 Onset: Symptoms began approximately 30 days ago. \u2022 Duration:  Symptoms occur daily, lasting several hours. \u2022 Character:  The headache is described as throbbing, primarily located on the right side \nof the head, often accompanied by dizziness and nausea. \u2022 Associated Symptoms:  Light sensitivity, occasional vomiting, and blurred vision. \u2022 Aggravating Factors:  Stress, loud noises, and bright lights. \u2022 Relieving Factors:  Resting in a dark, quiet room, over -the-counter pain relief. \u2022 Previous Episodes:  Similar episodes occurred intermittently over the past year but have \nbecome more frequent and severe. Past Medical History:  \n\u2022 Migraines:  Diagnosed in 2014, managed with lifestyle modifications and over -the-\ncounter medications. \u2022 Seasonal Allergies:  Managed with antihistamines as needed. \u2022 Surgeries:  Cholecystectomy in 2012. \u2022 Chronic Conditions:  None reported. Family History:  \n\u2022 Father: Alive, age 75 (hypertension, hyperlipidemia). \u2022 Mother: Deceased at age 68 (breast cancer). \u2022 Siblings:  One sister (age 45, history of migraines).",
+      "page_number": 1,
+      "patient_name": "Sarah Johnson",
+      "chunk_index": 0,
+      "hierarchical_level": 1
+    },
+    {
+      "pdf_name": "medical record 01.pdf",
+      "chunk": "\u2022 July 23, 2016",
+      "page_number": 4,
+      "patient_name": "Sarah Johnson",
+      "chunk_index": 6,
+      "hierarchical_level": 1
+    },
+    {
+      "pdf_name": "medical record 01.pdf",
+      "chunk": "\u2022 Alcohol:  Consumes alcohol occasionally, 1 -2 drinks per month. \u2022 Drug Use:  Denies any recreational drug use. \u2022 Exercise:  Regular yoga and walking. \u2022 Diet: Balanced diet, includes fruits, vegetables, and lean proteins. Review of Systems:  \n\u2022 General:  Reports fatigue, denies weight loss or night sweats. \u2022 Skin: No rashes or lesions. \u2022 Head, Eyes, Ears, Nose, Throat (HEENT):  Denies hearing loss, sore throat, or nasal \ncongestion. \u2022 Cardiovascular:  Denies chest pain, palpitations, or edema. \u2022 Respiratory:  Denies cough, shortness of breath, or wheezing. \u2022 Gastrointestinal:  Occasional nausea and vomiting related to headaches, denies other \ngastrointestinal symptoms. \u2022 Genitourinary:  Denies dysuria, hematuria, or frequency. \u2022 Musculoskeletal:  Denies joint pain, swelling, or stiffness. \u2022 Neurological:  Reports headaches, dizziness, and blurred vision; denies weakness, \nnumbness, or seizures. \u2022 Psychiatric:  Denies depression, anxiety, or other psychiatric conditions. Medications:  \n\u2022 Ibuprofen 400 mg:  As needed for headache relief. \u2022 Cetirizine 10 mg:  One tablet daily during allergy season. Physical Examination:  \n\u2022 Vital Signs:  \no Blood Pressure: 125/78 mmHg  \no Heart Rate: 72 bpm  \no Respiratory Rate: 18 breaths/min  \no Temperature: 98.6\u00b0F  \no Oxygen Saturation: 98% on room air  \n\u2022 General:  Alert, oriented, in mild distress due to headache. \u2022 HEENT: Normocephalic, atraumatic.",
+      "page_number": 2,
+      "patient_name": "Sarah Johnson",
+      "chunk_index": 2,
+      "hierarchical_level": 1
+    },
+    {
+      "pdf_name": "testingdata2.pdf",
+      "chunk": "Social History:  \n\u2022 Smoking:  Never smoked. \u2022 Alcohol:  Occasional, 1 -2 drinks per month. \u2022 Drug Use:  Denies any recreational drug use. \u2022 Exercise:  Regular jogging and Pilates. \u2022 Diet:  Mostly vegetarian, occasionally consumes dairy. Review of Systems:  \n\u2022 General:  Reports fatigue, denies significant weight loss or fever. \u2022 Skin:  No rashes or changes noted. \u2022 HEENT:  No vision changes, hearing loss, or sore throat. \u2022 Cardiovascular:  Denies chest pain or palpitations. \u2022 Respiratory:  No shortness of breath or wheezing. \u2022 Gastrointestinal:  Reports abdominal pain, bloating, and changes in bowel habits. \u2022 Genitourinary:  Denies dysuria or urinary frequency. \u2022 Musculoskeletal:  No joint pain or stiffness. \u2022 Neurological:  No headaches, dizziness, o r numbness. \u2022 Psychiatric:  Reports mild anxiety, denies depression. Medications:  \n\u2022 Omeprazole 20 mg:  Once daily for GERD. \u2022 Cetirizine 10 mg:  As needed for allergies. Physical Examination:  \n\u2022 Vital Signs:  \n\u2022 Blood Pressure:  118/74 mmHg  \n\u2022 Heart Rate:  68 bpm  \n\u2022 Respiratory Rate:  16 breaths/min  \n\u2022 Temperature:  98.2\u00b0F  \n\u2022 Oxygen Saturation:  99% on room air  \n\u2022 General:  Well -appearing, in no acute distress. \u2022 HEENT:  Normocephalic, atraumatic. Pupils reactive to light. \u2022 Neck:  No lymphadenopathy, no thyroid enlargement. \u2022 Cardiovascular:  Regular rhythm, no murmurs or gallops.",
+      "page_number": 2,
+      "patient_name": "Jane Smith",
+      "chunk_index": 1,
+      "hierarchical_level": 1
+    }
+  ]
+}

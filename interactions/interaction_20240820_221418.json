@@ -1,0 +1,47 @@
+{
+  "timestamp": "2024-08-20T22:14:18.902145",
+  "question": "what disease do sarah have ?",
+  "answer": "{\n  \"highlight\": \"Recurrent severe headaches and dizziness, likely migraines with aura.\",\n  \"filename\": \"medical record 01.pdf\",\n  \"page_number\": 3,\n  \"ans\": \"Sarah has been diagnosed with recurrent severe headaches and dizziness, which are likely migraines with aura.\"\n}",
+  "context_metadata": [
+    {
+      "pdf_name": "medical record 01.pdf",
+      "chunk": "Medical History Report  \nPatient Information:  \n\u2022 Name: Sarah Johnson  \n\u2022 Date of Birth:  June 22, 1975  \n\u2022 Gender: Female  \n\u2022 Marital Status:  Single  \n\u2022 Occupation:  Teacher  \n\u2022 Primary Care Physician:  Dr. Michael Brown  \nChief Complaint:  \n\u2022 Severe headaches and dizziness for the past month. History of Present Illness:  \n\u2022 Onset: Symptoms began approximately 30 days ago. \u2022 Duration:  Symptoms occur daily, lasting several hours. \u2022 Character:  The headache is described as throbbing, primarily located on the right side \nof the head, often accompanied by dizziness and nausea. \u2022 Associated Symptoms:  Light sensitivity, occasional vomiting, and blurred vision. \u2022 Aggravating Factors:  Stress, loud noises, and bright lights. \u2022 Relieving Factors:  Resting in a dark, quiet room, over -the-counter pain relief. \u2022 Previous Episodes:  Similar episodes occurred intermittently over the past year but have \nbecome more frequent and severe. Past Medical History:  \n\u2022 Migraines:  Diagnosed in 2014, managed with lifestyle modifications and over -the-\ncounter medications. \u2022 Seasonal Allergies:  Managed with antihistamines as needed. \u2022 Surgeries:  Cholecystectomy in 2012. \u2022 Chronic Conditions:  None reported. Family History:  \n\u2022 Father: Alive, age 75 (hypertension, hyperlipidemia). \u2022 Mother: Deceased at age 68 (breast cancer). \u2022 Siblings:  One sister (age 45, history of migraines).",
+      "page_number": 1,
+      "patient_name": "Sarah Johnson",
+      "chunk_index": 0,
+      "hierarchical_level": 1
+    },
+    {
+      "pdf_name": "medical record 01.pdf",
+      "chunk": "\u2022 July 23, 2016",
+      "page_number": 4,
+      "patient_name": "Sarah Johnson",
+      "chunk_index": 6,
+      "hierarchical_level": 1
+    },
+    {
+      "pdf_name": "medical record 01.pdf",
+      "chunk": "\u2022 Alcohol:  Consumes alcohol occasionally, 1 -2 drinks per month. \u2022 Drug Use:  Denies any recreational drug use. \u2022 Exercise:  Regular yoga and walking. \u2022 Diet: Balanced diet, includes fruits, vegetables, and lean proteins. Review of Systems:  \n\u2022 General:  Reports fatigue, denies weight loss or night sweats. \u2022 Skin: No rashes or lesions. \u2022 Head, Eyes, Ears, Nose, Throat (HEENT):  Denies hearing loss, sore throat, or nasal \ncongestion. \u2022 Cardiovascular:  Denies chest pain, palpitations, or edema. \u2022 Respiratory:  Denies cough, shortness of breath, or wheezing. \u2022 Gastrointestinal:  Occasional nausea and vomiting related to headaches, denies other \ngastrointestinal symptoms. \u2022 Genitourinary:  Denies dysuria, hematuria, or frequency. \u2022 Musculoskeletal:  Denies joint pain, swelling, or stiffness. \u2022 Neurological:  Reports headaches, dizziness, and blurred vision; denies weakness, \nnumbness, or seizures. \u2022 Psychiatric:  Denies depression, anxiety, or other psychiatric conditions. Medications:  \n\u2022 Ibuprofen 400 mg:  As needed for headache relief. \u2022 Cetirizine 10 mg:  One tablet daily during allergy season. Physical Examination:  \n\u2022 Vital Signs:  \no Blood Pressure: 125/78 mmHg  \no Heart Rate: 72 bpm  \no Respiratory Rate: 18 breaths/min  \no Temperature: 98.6\u00b0F  \no Oxygen Saturation: 98% on room air  \n\u2022 General:  Alert, oriented, in mild distress due to headache. \u2022 HEENT: Normocephalic, atraumatic.",
+      "page_number": 2,
+      "patient_name": "Sarah Johnson",
+      "chunk_index": 2,
+      "hierarchical_level": 1
+    },
+    {
+      "pdf_name": "medical record 01.pdf",
+      "chunk": "\u2022 Cardiovascular:  Regular rate and rhythm, no murmurs, rubs, or gallops. \u2022 Respiratory:  Clear to auscultation bilaterally, no wheezes, rales, or rhonchi. \u2022 Abdomen:  Soft, non -tender, no hepatosplenomegaly. \u2022 Extremities:  No cyanosis, clubbing, or edema. \u2022 Neurological:  Cranial nerves II -XII intact, no focal deficits. Assessment:  \n\u2022 Recurrent severe headaches and dizziness, likely migraines with aura. Differential \ndiagnosis includes:  \no Migraine headaches  \no Tension-type headaches  \no Vestibular migraine  \no Secondary causes (e.g., intracranial mass, vascular malformation)  \nPlan:  \n1. Diagnostic Testing:  \no MRI of the brain to rule out secondary causes. o Complete metabolic panel (CMP) and complete blood count (CBC) to assess \noverall health. 2. Medications:  \no Sumatriptan 50 mg: One tablet at the onset of headache, may repeat once after \n2 hours if needed. o Propranolol 20 mg: One tablet twice daily as a prophylactic measure. 3. Follow-Up:  \no Schedule follow -up appointment in four weeks to evaluate response to \ntreatment and review MRI results. 4. Patient Education:  \no Advise on the importance of maintaining a headache diary to identify potential \ntriggers. o Educate about lifestyle modifications including regular sleep patterns, stress \nmanagement techniques, and dietary considerations.",
+      "page_number": 3,
+      "patient_name": "Sarah Johnson",
+      "chunk_index": 4,
+      "hierarchical_level": 1
+    },
+    {
+      "pdf_name": "medical record 01.pdf",
+      "chunk": "Pupils equal, round, reactive to light. Mild \nphotophobia noted. No papilledema on fundoscopic exam. \u2022 Neck: No jugular venous distension, no lymphadenopathy.",
+      "page_number": 2,
+      "patient_name": "Sarah Johnson",
+      "chunk_index": 3,
+      "hierarchical_level": 1
+    }
+  ]
+}

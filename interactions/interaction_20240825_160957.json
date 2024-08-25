@@ -1,0 +1,57 @@
+{
+  "timestamp": "2024-08-25T16:09:57.583611",
+  "question": "how much is the vy speed",
+  "answer": "{\n  \"highlight\": [\n    {\n      \"text\": \"vy:B e s t  R a t e - o f - C l i m b  S p e e d .\",\n      \"page_number\": 24,\n      \"filename\": \"manual2a.pdf\"\n    },\n    {\n      \"text\": \"Airspeed............................ 7 4  K I A S  (1200 kg, 2646 lb)\",\n      \"page_number\": 98,\n      \"filename\": \"manual2a.pdf\"\n    },\n    {\n      \"text\": \"76 KIAS (1200 kg, 2646 lb)\",\n      \"page_number\": 185,\n      \"filename\": \"manual2a.pdf\"\n    }\n  ],\n  \"ans\": \"The vy speed, or best rate-of-climb speed, is indicated as 76 KIAS for a weight of 1200 kg (2646 lb).\"\n}",
+  "context_metadata": [
+    {
+      "pdf_name": "manual2a.pdf",
+      "chunk_index": 270,
+      "page_number": 187,
+      "patient_name": null,
+      "hierarchical_level": 0,
+      "cluster_id": null,
+      "summary_text": null,
+      "original_text": "DA 40 AFM Performance\nDoc. # 6.01.01-E Rev. 8 01-Dec-2010 Page 5 - 175.3.9  CRUISING (TRUE AIRSPEED TAS)Diagram to establish true airspeed (TAS) at a given power setting. Example: Pressure altitude . . . . . . . . . . . . .5000 ftTemperature . . . . . . . . . . . . . . . . 15 (C (59 \u00b0F)Power setting . . . . . . . . . . . . . . . 55 %Result: True Airspeed (TAS)..........118 ktsCAUTIONIn case of operation without wheel fairings the cruising speedreduces by approximately 5 %."
+    },
+    {
+      "pdf_name": "manual2a.pdf",
+      "chunk_index": 124,
+      "page_number": 98,
+      "patient_name": null,
+      "hierarchical_level": 0,
+      "cluster_id": null,
+      "summary_text": null,
+      "original_text": "Airspeed............................ 7 4  K I A S  (1200 kg, 2646 lb)%72 KIAS (1150 kg, 2235 lb)66 KIAS (1000 kg, 2205 lb)59 KIAS (850 kg, 1874 lb)CONTINUED"
+    },
+    {
+      "pdf_name": "manual2a.pdf",
+      "chunk_index": 27,
+      "page_number": 24,
+      "patient_name": null,
+      "hierarchical_level": 0,
+      "cluster_id": null,
+      "summary_text": null,
+      "original_text": "This speed may be exceeded only insmooth air, and then only with caution.vS:S t a l l i n g  S p e e d ,  o r  t h e  m i n i m u m  c o n t i n u o u s speed at which the airplane is stillcontrollable in the given configuration.vS0:S t a l l i n g  S p e e d ,  o r  t h e  m i n i m u m  c o n t i n u o u s speed at which the airplane is stillcontrollable in the landing configuration.vx:B e s t  A n g l e - o f - C l i m b  S p e e d .vy:B e s t  R a t e - o f - C l i m b  S p e e d ."
+    },
+    {
+      "pdf_name": "manual2a.pdf",
+      "chunk_index": 49,
+      "page_number": 43,
+      "patient_name": null,
+      "hierarchical_level": 0,
+      "cluster_id": null,
+      "summary_text": null,
+      "original_text": "DA 40 AFMOperatingLimitations\nDoc. # 6.01.01-E Rev. 8 01-Dec-2010EASAapprovedPage 2 - 32.2 AIRSPEEDAirspeed IAS RemarksvAManeuveringspeed108 KIAS(above 980 kg / 2161 lbup to 1150 kg / 2535 lb)94 KIAS(780 kg / 1720 lbup to 980 kg / 2161 lb)If M\u00c4M 40-227 is carried'out: '111 KIAS'(above 1036 kg /2284 lb'up to 1200 kg / 2646 lb)''94 KIAS'(780 kg / 1720 lb'up to 1036 kg / 2284 lb)'Do not make full or abruptcontrol surface movementabove this speed. vFEMax. flaps ex-tended speedLDG: 91 KIAST/O: 108 KIASDo not exceed these speedswith the given flap setting.vNO=vCMax. structuralcruising speed129 KIAS Do not exceed this speedexcept in smooth air, andthen only with caution.vNENever exceedspeed in smoothair178 KIAS Do not exceed this speed inany operation."
+    },
+    {
+      "pdf_name": "manual2a.pdf",
+      "chunk_index": 268,
+      "page_number": 185,
+      "patient_name": null,
+      "hierarchical_level": 0,
+      "cluster_id": null,
+      "summary_text": null,
+      "original_text": "DA 40 AFM Performance\nDoc. # 6.01.01-E Rev. 8 01-Dec-2010 Page 5 - 155.3.8  CLIMB PERFORMANCE - CRUISE CLIMBConditions: -  Throttle.................. M A X  P W R-  RPM lever . . . . . . . . . . . . . . . .2400 RPM-  Flaps . . . . . . . . . . . . . . . . . . . . UP-  Airspeed. . . . . . . . . . . . . . . . . 76 KIAS (1200 kg, 2646 lb)%73 KIAS (1150 kg, 2535 lb)68 KIAS (1000 kg, 2205 lb)60 KIAS (850 kg, 1874 lb)"
+    }
+  ]
+}

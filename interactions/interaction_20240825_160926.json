@@ -1,0 +1,57 @@
+{
+  "timestamp": "2024-08-25T16:09:26.648075",
+  "question": "What is the rotation speed of the aircraft",
+  "answer": "{\n  \"highlight\": [\n    {\n      \"text\": \"Nose wheel : 5.00-5; 6 PR, 120 mphMain wheel : (a) 6.00-6; 6 PR, 120 mph in combination with any MLG strut(b) 6.00-6; 8 PR, 120 mph in combination with any MLG strut(c) 15 x 6.0-6; 6 PR, 160 mph\",\n      \"page_number\": 23,\n      \"filename\": \"manual2a.pdf\"\n    },\n    {\n      \"text\": \"True Airspeed (TAS)..........118 kts\",\n      \"page_number\": 187,\n      \"filename\": \"manual2a.pdf\"\n    }\n  ],\n  \"ans\": \"The aircraft has a rotation speed indicated as 120 mph for the nose and main wheels, and a true airspeed (TAS) of 118 knots.\"\n}",
+  "context_metadata": [
+    {
+      "pdf_name": "manual2a.pdf",
+      "chunk_index": 136,
+      "page_number": 107,
+      "patient_name": null,
+      "hierarchical_level": 0,
+      "cluster_id": null,
+      "summary_text": null,
+      "original_text": "pull carefully8. Return the airplane from a descending into a normal flight attitude. In sodoing do not exceed the 'never exceed speed', vNE.END OF CHECKLIST"
+    },
+    {
+      "pdf_name": "manual2a.pdf",
+      "chunk_index": 260,
+      "page_number": 179,
+      "patient_name": null,
+      "hierarchical_level": 0,
+      "cluster_id": null,
+      "summary_text": null,
+      "original_text": "DA 40 AFM Performance\nDoc. # 6.01.01-E Rev. 8 01-Dec-2010 Page 5 - 95.3.5  WIND COMPONENTS\nExample: Flight direction : 360\u00b0Wind : 32\u00b0/30 ktsResult: Crosswind component : 16 ktsMax. demonstrated crosswind component : 20 kts"
+    },
+    {
+      "pdf_name": "manual2a.pdf",
+      "chunk_index": 27,
+      "page_number": 24,
+      "patient_name": null,
+      "hierarchical_level": 0,
+      "cluster_id": null,
+      "summary_text": null,
+      "original_text": "This speed may be exceeded only insmooth air, and then only with caution.vS:S t a l l i n g  S p e e d ,  o r  t h e  m i n i m u m  c o n t i n u o u s speed at which the airplane is stillcontrollable in the given configuration.vS0:S t a l l i n g  S p e e d ,  o r  t h e  m i n i m u m  c o n t i n u o u s speed at which the airplane is stillcontrollable in the landing configuration.vx:B e s t  A n g l e - o f - C l i m b  S p e e d .vy:B e s t  R a t e - o f - C l i m b  S p e e d ."
+    },
+    {
+      "pdf_name": "manual2a.pdf",
+      "chunk_index": 24,
+      "page_number": 23,
+      "patient_name": null,
+      "hierarchical_level": 0,
+      "cluster_id": null,
+      "summary_text": null,
+      "original_text": "DA 40 AFM General\nDoc. # 6.01.01-E Rev. 9%31-Jan-2014%Page 1 - 7Vertical TailArea : appr. 1.60 m\u00b2 appr. 17.2 sq.ft.Rudder area : appr. 0.47 m\u00b2 appr. 5.1 sq.ft.Landing GearTrack : appr. 2.97 m appr. 9 ft 9 inWheelbase : appr. 1.68 m appr. 5 ft 6 inNose wheel : 5.00-5; 6 PR, 120 mphMain wheel : (a) 6.00-6; 6 PR, 120 mph in combination with any      MLG strut(b) 6.00-6; 8 PR, 120 mph in combination with any%MLG strut%(c) 15 x 6.0-6; 6 PR, 160 mph%(O\u00c4M 40-124; only in combination with the %\u201cthin\u201d/\u201d18 mm\u201d [M\u00c4M 40-123] or the \u201ctall\u201d%[O\u00c4M 40-283] MLG strut)%"
+    },
+    {
+      "pdf_name": "manual2a.pdf",
+      "chunk_index": 270,
+      "page_number": 187,
+      "patient_name": null,
+      "hierarchical_level": 0,
+      "cluster_id": null,
+      "summary_text": null,
+      "original_text": "DA 40 AFM Performance\nDoc. # 6.01.01-E Rev. 8 01-Dec-2010 Page 5 - 175.3.9  CRUISING (TRUE AIRSPEED TAS)Diagram to establish true airspeed (TAS) at a given power setting. Example: Pressure altitude . . . . . . . . . . . . .5000 ftTemperature . . . . . . . . . . . . . . . . 15 (C (59 \u00b0F)Power setting . . . . . . . . . . . . . . . 55 %Result: True Airspeed (TAS)..........118 ktsCAUTIONIn case of operation without wheel fairings the cruising speedreduces by approximately 5 %."
+    }
+  ]
+}

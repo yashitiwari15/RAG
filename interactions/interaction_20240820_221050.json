@@ -1,0 +1,47 @@
+{
+  "timestamp": "2024-08-20T22:10:50.600291",
+  "question": "when did carl smith father died ?",
+  "answer": "{\n  \"highlight\": \"After his father passed away in 2015\",\n  \"filename\": \"msr1.pdf\",\n  \"page_number\": 2,\n  \"ans\": \"Carl Smith's father passed away in 2015.\"\n}",
+  "context_metadata": [
+    {
+      "pdf_name": "msr1.pdf",
+      "chunk": "He hopes to \none day reunite with his daughter, once he \u201cfigures things out.\u201d  \n After losing custody of his daughter , Mr. Smith  has not had a home. He lived with his father for \nabout a year , as he slowly died from c irrhosis of the Liver. Carl  says he was again left as the sole \ncaretaker of a dying parent . After his  father passed away in 2015, Carl turned to living outside \nand in s helters. He said he would sleep on park benches, in abandoned houses, and shelters \nwhen he got a chance.",
+      "page_number": 2,
+      "patient_name": "Carl John Smith   \nDOB",
+      "chunk_index": 12,
+      "hierarchical_level": 1
+    },
+    {
+      "pdf_name": "msr1.pdf",
+      "chunk": "Summary:  \nMr. Carl Smith  is a 31 -year -old, chronically homeless male with a long history of severe and \npersistent mental illness. Unfortunately, Mr. Smith  experienced physical and ps ychological \nabuse from his father, neglect from his mother, and did not receive  effective  intervention from \nthe schools or state. He was raised in a crack -house, and learned to cope with his extreme \nemotions by using the drugs and alcohol that ultimately took his parents\u2019 lives. Carl has tried \nand is still trying to get his life on track, and create a positive relationship with his young \ndaughter.",
+      "page_number": 8,
+      "patient_name": "Carl John Smith   \nDOB",
+      "chunk_index": 51,
+      "hierarchical_level": 1
+    },
+    {
+      "pdf_name": "msr1.pdf",
+      "chunk": "When I get \nstresse d out, I immediately shut down.\u201d  \n Personal History:  Mr. Smith  is the youngest of three children, and  his parent s divorced when he was two. Carl \nstates \u201cThey hated each other!\u201d Carl and his older brother, Greg, lived with their mother for  the \nthree years  after their parents\u2019 divorce . He says things changed when his mom had a mental \nbreakdown: \u201cAt some point she went into a mental hospital because she was suicidal.",
+      "page_number": 1,
+      "patient_name": "Carl John Smith   \nDOB",
+      "chunk_index": 2,
+      "hierarchical_level": 1
+    },
+    {
+      "pdf_name": "msr1.pdf",
+      "chunk": "In addition to her severe mental illness, Carl\u2019s mother  also suffered from Hepatitis C. \nShe began experiencing liver failure when Carl was about 16, eventually passing away when he \nwas 19. Carl says he was his mother\u2019s sole caregiver during the last year of her life. This \ntraumatic experience led to what Carl  describes as his \u201cfirst major psychiatric breakdown;\u201d \nstating: \u201cI stopped taking my meds, stopped talking to my family, and just went into the streets to live.\u201d  \n \nAt 21, Carl met his long -time girlfriend .",
+      "page_number": 2,
+      "patient_name": "Carl John Smith   \nDOB",
+      "chunk_index": 9,
+      "hierarchical_level": 1
+    },
+    {
+      "pdf_name": "msr1.pdf",
+      "chunk": "To the best of his memory, Mr. Smith  began experiencing feelings of anxiety around \u201c7 or 8.\u201d \nHe says that he struggled in school and at home as early as he can remember and  cont ributes a \nlot of these feelings to his unstable home life. At age 11, Carl experienced his first inpatient \nhospitalization at Youth Treatment Center . He was admitted on 11/3/1997 and discharged on \n11/17/1997. Admission records state , \u201c11- year -old white mal e who was admitted to the \ninpatient unit\u2026due to loss of control.",
+      "page_number": 5,
+      "patient_name": "Carl John Smith   \nDOB",
+      "chunk_index": 31,
+      "hierarchical_level": 1
+    }
+  ]
+}
