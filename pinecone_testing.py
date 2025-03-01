@@ -1,3 +1,4 @@
+#this file is an option to connect the database to pinecone which is an online vector database
 import os
 import io
 import streamlit as st
