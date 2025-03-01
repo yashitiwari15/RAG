@@ -12,7 +12,7 @@ openai.api_key = os.getenv("OPENAI_API_KEY")
 MODEL_NAME = os.getenv("LLM_MODEL")
 TEMPERATURE = 0.5
 
-# Connect to Milvus
+# Connect to Milvus use to connect to the host
 def connect_to_milvus():
     connections.connect("default", host="0.0.0.0", port="19530")
     if utility.has_collection("exmpcollection1"):
